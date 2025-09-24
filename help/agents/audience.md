@@ -1,7 +1,7 @@
 ---
 title: Audience Agent
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
-source-git-commit: 6d1f6a8c6a97bbbad88c0dd8123fac7821f06754
+source-git-commit: d91aac948a6fef36949218004dc0481dc8f5cf7f
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 >Audience Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Audience Agent功能。
 >
 >**檢視區段**：此許可權可讓您使用Audience Agent直接在AI助理中檢視對象的深入分析。
->&#x200B;>**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
+>>**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
 
 Audience Agent可讓您檢視對象的相關深入分析，包括偵測對象人數的重大變更、偵測重複的對象、探索您的對象詳細目錄，以及擷取對象人數。
 
@@ -33,7 +33,7 @@ AI Assistant中的Audience Agent支援下列使用案例：
 - 探索可用來定義對象的XDM欄位
    - 此技能可讓您根據情境和相關性更輕鬆地識別要在對象中使用的正確欄位
 
-Audience Agent目前&#x200B;**不**&#x200B;支援下列功能：
+Audience Agent **目前**&#x200B;不支援下列功能：
 
 - 知識型對象建立
    - 以知識為基礎建立受眾，就是根據指定的屬性和事件建立受眾
