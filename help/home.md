@@ -1,9 +1,9 @@
 ---
 title: Experience Cloud應用程式中的AI
 description: 瞭解Experience Cloud應用程式如何使用generative AI (GenAI)、AI Assistant和agentic AI。
-source-git-commit: 860b0f2414dc006c23fedcd7b0e29727fc0641d4
+source-git-commit: 58cce845f525e7762f32379a8db5791b677ae54f
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,9 @@ ht-degree: 0%
 
 讓Journey Optimizer使用者：
 
-- 使用自然語言建立、分析和最佳化歷程
+- 使用自然語言分析和最佳化歷程
 - 偵測並解決排程或對象衝突
 - 分析效能和流失點
-- 識別表現最佳的復寫歷程
 
 #### 產品支援代理
 

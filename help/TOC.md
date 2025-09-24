@@ -1,13 +1,13 @@
 ---
 audience: user
-user-guide-title: Adobe Experience Platform中的AI Assistant指南
+user-guide-title: Adobe Experience Cloud中的AI助理
 user-guide-description: 瞭解如何使用AI Assistant加快您使用Adobe Experience Platform和Real-Time Customer Data Platform的工作流程。
 description: 瞭解Experience Cloud中的AI Assistant。 在Experience Cloud中使用AI來改善您的產品知識並獲得操作見解。
-solution: Experience Platform
+solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 04afa45b0fae7aace9bd81afd2ac032c7d0f55c6
+source-git-commit: 58cce845f525e7762f32379a8db5791b677ae54f
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
