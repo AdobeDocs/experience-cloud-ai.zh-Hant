@@ -4,9 +4,9 @@ description: Journey Agent分析技能的全面指南，可讓使用者分析行
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 04afa45b0fae7aace9bd81afd2ac032c7d0f55c6
+source-git-commit: 56dbe826fc73cbf699f08b12014b2b73d2bab71b
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,12 @@ Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析�
 
 >[!AVAILABILITY]
 >
->Audience Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Audience Agent功能。
+>Journey Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Journey Agent功能。
 >
->**檢視區段**：此許可權可讓您使用Audience Agent直接在AI助理中檢視對象的深入分析。
->&#x200B;>**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
-
+>**檢視歷程**：此許可權可讓您使用Journey Agent直接在AI助理中檢視歷程的深入分析。
+>>**管理歷程**： 「收件者」許可權可讓您使用Journey Agent直接在AI助理中建立新的歷程。
+>>**檢視區段**：此許可權可讓您使用Journey Agent直接在AI助理中檢視對象的深入分析。
+>>**管理區段**： 「收件者」許可權可讓您使用Journey Agent直接在AI Assistant中建立新對象。
 
 AJO代理程式的![範例](./images/ajo-agent/ajo-agent-sample.png)
 
