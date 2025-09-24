@@ -16,7 +16,7 @@ ht-degree: 0%
 >Audience Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Audience Agent功能。
 >
 >**檢視區段**：此許可權可讓您使用Audience Agent直接在AI助理中檢視對象的深入分析。
->>**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
+>&#x200B;>**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
 
 Audience Agent可讓您檢視對象的相關深入分析，包括偵測對象人數的重大變更、偵測重複的對象、探索您的對象詳細目錄，以及擷取對象人數。
 
