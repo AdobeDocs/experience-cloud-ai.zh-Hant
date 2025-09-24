@@ -4,9 +4,9 @@ description: Journey Agent分析技能的全面指南，可讓使用者分析行
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 56dbe826fc73cbf699f08b12014b2b73d2bab71b
+source-git-commit: cf29a28477881b400b32b4623ccff2e626010e10
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析�
 >Journey Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Journey Agent功能。
 >
 >**檢視歷程**：此許可權可讓您使用Journey Agent直接在AI助理中檢視歷程的深入分析。
->&#x200B;>**管理歷程**： 「收件者」許可權可讓您使用Journey Agent直接在AI助理中建立新的歷程。
->&#x200B;>**檢視區段**：此許可權可讓您使用Journey Agent直接在AI助理中檢視對象的深入分析。
->&#x200B;>**管理區段**： 「收件者」許可權可讓您使用Journey Agent直接在AI Assistant中建立新對象。
+>>**管理歷程**： 「收件者」許可權可讓您使用Journey Agent直接在AI助理中建立新的歷程。
+>>**檢視區段**：此許可權可讓您使用Journey Agent直接在AI助理中檢視對象的深入分析。
+>>**管理區段**： 「收件者」許可權可讓您使用Journey Agent直接在AI Assistant中建立新對象。
 
 AJO代理程式的![範例](./images/ajo-agent/ajo-agent-sample.png)
 
@@ -105,7 +105,10 @@ Journey Agent Analyze支援下列功能：
 
 ### 流失分析
 
-
+- 「我想針對7月4日的行銷活動歷程依節點分析流失。」
+- 「對7月4日的行銷活動歷程執行流失分析。」
+- 「在7月4日行銷活動的歷程中，設定檔損失是多少？」
+- 「顯示使用者在7月4日的行銷活動之旅中的目的地。」
 
 ### 衝突分析提示
 
