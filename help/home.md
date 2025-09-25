@@ -1,14 +1,14 @@
 ---
-title: Experience Cloud應用程式中的AI
-description: 瞭解Experience Cloud應用程式如何使用generative AI (GenAI)、AI Assistant和agentic AI。
-source-git-commit: 58cce845f525e7762f32379a8db5791b677ae54f
+title: Experience Cloud 應用程式中的 AI
+description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
+source-git-commit: b5649a893afc212a826b1ec2acb5ee2957caa03d
 workflow-type: tm+mt
 source-wordcount: '645'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Experience Cloud中的AI
+# Experience Cloud 中的 AI
 
 歡迎使用跨Adobe Experience Cloud應用程式的AI功能完整指南。 本檔案說明如何將創作AI、AI Assistant和Adobe代理程式整合到Experience Cloud工作流程中，以加快生產力並增強決策。
 
@@ -107,4 +107,3 @@ AI Assistant以隱私權、安全性和控管成為建置重點：
 - 針對任何問題或不準確之處提交意見回饋
 
 本指南提供在您的Experience Cloud應用程式中有效使用AI功能所需的一切，從基本互動到進階代理程式協調與特殊工作流程。
-
