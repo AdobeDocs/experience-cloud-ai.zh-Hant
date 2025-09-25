@@ -1,7 +1,7 @@
 ---
 title: 法律免責宣告 — 個人資料、語言支援及驗證回應
 description: 瞭解關於個人資料、語言支援在使用AI助理時驗證回應的法律免責宣告。
-source-git-commit: 36307b844a1effb8202d4d10adc171b1429b04ff
+source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
