@@ -1,7 +1,7 @@
 ---
 title: Audience Agent
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -164,3 +164,4 @@ Audience Agent **目前**&#x200B;不支援下列功能：
 ## 後續步驟
 
 閱讀本指南後，您應該對Audience Agent及其支援的功能有更深入的瞭解。 如需Adobe Experience Platform代理程式的詳細資訊，請閱讀[Agent Orchestrator概觀](./agent-orchestrator.md)。
+

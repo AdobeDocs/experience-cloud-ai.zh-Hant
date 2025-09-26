@@ -1,7 +1,7 @@
 ---
 title: AI 助理使用者介面指南
 description: 瞭解如何在使用者介面中存取和使用AI Assistant。
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 0%

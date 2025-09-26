@@ -1,7 +1,7 @@
 ---
 title: 法律免責宣告 — 個人資料、語言支援及驗證回應
 description: 瞭解關於個人資料、語言支援在使用AI助理時驗證回應的法律免責宣告。
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -25,3 +25,4 @@ AI助理目前僅支援英文版。 非英文輸入可能會產生不一致或�
 ## 驗證回應 {#verifying-responses}
 
 檢查您的答案很重要，因為語言模型可能會出錯。 務必驗證來源，以確保SQL邏輯正確，並且已針對您的使用案例參考適當的檔案。 請檢閱AI Assistant提供的推理步驟和解釋，以瞭解它如何得出答案。 如果發現錯誤，請提交意見反應。
+

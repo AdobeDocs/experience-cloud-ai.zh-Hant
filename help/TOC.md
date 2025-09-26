@@ -1,21 +1,21 @@
 ---
 audience: user
 user-guide-title: Adobe Experience Cloud中的AI助理
-user-guide-description: 瞭解如何使用AI Assistant加快您使用Adobe Experience Platform和Real-Time Customer Data Platform的工作流程。
-description: 瞭解Experience Cloud中的AI Assistant。 在Experience Cloud中使用AI來改善您的產品知識並獲得操作見解。
+user-guide-description: 了解如何使用 AI 助理加快 Adobe Experience Platform 和 Real-Time Customer Data Platform 的工作流程。
+description: 了解關於 Experience Cloud 中的 AI 助理。使用 Experience Cloud 中的 AI 來增加您的產品知識及獲得運作洞察。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 58cce845f525e7762f32379a8db5791b677ae54f
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 66%
 
 ---
 
 
-# Experience Cloud中的AI {#experience-cloud-ai}
+# Experience Cloud 中的 AI {#experience-cloud-ai}
 
-- [Experience Cloud應用程式中的AI](home.md)
+- [Experience Cloud 應用程式中的 AI](home.md)
 - AI助理 {#ai-assistant}
    - [AI助理使用者介面指南](./ai-assistant/ai-assistant-ui.md)
    - [提示程式庫](./ai-assistant/prompt-library.md)
@@ -25,3 +25,4 @@ ht-degree: 0%
    - [Agent Orchestrator](./agents/agent-orchestrator.md)
    - [Audience Agent](./agents/audience.md)
    - [Journey Agent](./agents/ajo-agent-analyze.md)
+

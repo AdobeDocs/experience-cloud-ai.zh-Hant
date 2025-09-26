@@ -1,7 +1,7 @@
 ---
 title: AI助理提示程式庫
 description: 瞭解在查詢AI助理時可以使用的不同提示和提示模式。
-source-git-commit: c9909616697ef319a307b5c8a1ee135204347844
+source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 3%
@@ -133,3 +133,4 @@ ht-degree: 3%
 
 - 「我的E-12345最新情況如何？」
 - 「票證E-67890有什麼更新？」
+
