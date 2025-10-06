@@ -4,9 +4,9 @@ description: Journey 代理分析技能的綜合指南，讓使用者能夠分�
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: 26b579471b591d3c436f4275d07303d297e0fbf8
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '979'
 ht-degree: 38%
 
 ---
@@ -18,17 +18,19 @@ ht-degree: 38%
 
 Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析和最佳化歷程。 透過Journey Agent，從業人員可以快速識別並解決排程和/或對象衝突、偵測歷程中的使用者放棄點，並提供見解或建議。 此代理讓從業人員能夠做出資料驅動的決策、提高客戶參與度，及簡化歷程協調流程。
 
+在此[總覽](https://experienceleague.adobe.com/en/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
+
 >[!AVAILABILITY]
 >
->Journey Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Journey Agent功能。
+>Journey Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要下列許可權才能完整使用Journey Agent功能：
 >
->**檢視歷程**：此許可權可讓您使用Journey Agent直接在AI助理中檢視歷程的深入分析。
+>**檢視歷程**：此許可權可讓您直接在AI助理中檢視歷程的深入分析。
 >
->**管理歷程**： 「收件者」許可權可讓您使用Journey Agent直接在AI Assistant中建立新的歷程。
+>**管理歷程**：若要取得許可權，您可以直接在AI助理中建立新的歷程。
 >
->**檢視區段**：此許可權可讓您使用Journey Agent直接在AI助理中檢視對象的深入分析。
+>**檢視區段**：此許可權可讓您直接在AI助理中檢視對象的深入分析。
 >
->**管理區段**： 「收件者」許可權可讓您使用Journey Agent直接在AI Assistant中建立新對象。
+>**管理區段**： 「收件者」許可權可讓您直接在AI助理中建立新對象。
 
 AJO代理程式的![範例](./images/ajo-agent/ajo-agent-sample.png)
 
@@ -70,7 +72,7 @@ Journey 代理分析技能提供一系列功能，善加利用即可將行銷工
 Journey 代理分析支援以下功能：
 
 - **反應式查詢**：使用者能夠詢問關於歷程績效、客群使用情形，以及排程衝突的具體問題。
-- **與其他代理人整合**：與 Audience 代理和 Data Insights 代理協同合作，進行更深入的分析。
+- **與其他代理整合**：與 Audience 代理和 Data Insights 代理協同合作，進行更深入的分析。
 - **代理程式回應結構**：推理（說明邏輯）、分析摘要（強調關鍵點）、問題詳細資訊（說明問題）以及建議（建議後續步驟）。
 
 ### **範圍外**
@@ -79,7 +81,7 @@ Journey 代理分析支援以下功能：
 
 - **自動建立歷程**
 - **即時異常偵測**
-- **通道重疊**
+- **管道重疊**
 - **歷程進入分析**
 - **技術問題分析**
 - **疲勞分析**
