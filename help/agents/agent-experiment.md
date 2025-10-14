@@ -1,11 +1,9 @@
 ---
 title: 實驗代理程式
 description: 瞭解如何使用Experimentation Agent
-hide: true
-hidefromtoc: true
-source-git-commit: 352ba791195eca7f68e6d317e0f2449d6ededeb2
+source-git-commit: 0069a97bcb35f609019ec32f263175a36525161a
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '506'
 ht-degree: 2%
 
 ---
@@ -18,7 +16,7 @@ ht-degree: 2%
 >
 >**檢視實驗**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中檢視實驗見解。
 >
->**管理實驗中繼資料**： [收件者]許可權可讓您使用Experimentation Agent直接在AI Assistant中建立新的實驗。
+>**管理實驗中繼資料**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中建立新的實驗。
 
 ## 概觀
 
