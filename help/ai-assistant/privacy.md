@@ -16,13 +16,13 @@ Adobe Experience Platform中的AI助理是透過隱私、安全性和治理機�
 
 * AI助理目前沒有使用任何個人資料，即使用於訓練目的亦然。
 * AI助理不知道消費者資料。
-* AI助理會遵循所有現有的[存取控制](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/access-control/home)原則。
+* AI助理會遵循所有現有的[存取控制](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home)原則。
 
    * 任何以屬性為基礎的新存取控制政策，在最多24小時&amp;amp；ast；之後反映在AI Assistant中；
 
 * 您必須被授予明確許可權才能與AI助理互動。
 
-   * 您可以使用[許可權UI](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/access-control/abac/permissions-ui/browse)為Experience Platform和Journey Optimizer設定不同的許可權，也可以使用[Admin Console](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/access-control/ui/browse)為Customer Journey Analytics指派許可權。
+   * 您可以使用[許可權UI](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse)為Experience Platform和Journey Optimizer設定不同的許可權，也可以使用[Admin Console](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/ui/browse)為Customer Journey Analytics指派許可權。
    * 許可權很細微，您的沙箱管理員可以設定哪些使用者可以詢問不同類別的問題（使用AI Assistant時的產品知識型問題或操作深入分析問題）。
 
 * AI Assistant是與Adobe Experience Platform Healthcare Shield搭配使用時可支援HIPAA的功能。

@@ -1,15 +1,15 @@
 ---
-title: Audience Agent
+title: Audience 代理
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
 source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '816'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Audience Agent
+# Audience 代理
 
 >[!AVAILABILITY]
 >

@@ -4,11 +4,11 @@ description: 瞭解如何在使用者介面中存取和使用AI Assistant。
 source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '1843'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# AI助理
+# AI 助理
 
 AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生產力並重新定義Adobe Experience Platform應用程式中的工作。 您可以使用AI助理來存取Adobe Experience Platform代理程式和其他AI功能。
 
@@ -16,7 +16,7 @@ AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生
 
 ![全熒幕的AI助理主介面。](./images/ai-assistant/blank-home.png)
 
-## 存取AI助理
+## 存取 AI 助理
 
 有幾種方式可存取AI助理。
 
@@ -122,7 +122,7 @@ AI Assistant接著會查詢其知識庫並計算答案。 幾分鐘後，AI Assi
 
 ![由AI助理參考的來源清單。](./images/ai-assistant/inputs/sources.png)
 
-### 提供意見回饋
+### 提供意見反應
 
 您可以使用回答中提供的選項，針對AI助理的體驗提供意見回饋。
 
@@ -193,7 +193,7 @@ AI Assistant接著會查詢其知識庫並計算答案。 幾分鐘後，AI Assi
 | 資訊來源 | 說明 | 範例 |
 | --- | --- | --- |
 | 應用程式 | 您查詢所屬的Experience Cloud應用程式。 | Experience Platform、Journey Optimizer、Customer Journey Analytics等 |
-| Sandbox | 包含您的查詢相關資料集或資訊的沙箱。 | 生產(VA7)、開發 |
+| 沙箱 | 包含您的查詢相關資料集或資訊的沙箱。 | 生產(VA7)、開發 |
 | 資料檢視 | 當您搭配使用AI助理與Customer Journey Analytics時，資料檢視設定可協助Data Insights Agent瞭解： <ul><li>要查詢的資料集</li><li>有哪些可用的資料元件</li><li>如何建構有關您資料的回應</li><li>要在Analysis Workspace中建立哪些視覺效果</li></ul> |
 
 ![可設定資訊來源的[回答]面板。](./images/ai-assistant/inputs/answer-from.png)
@@ -226,7 +226,7 @@ AI Assistant支援數種圖表型別用於資料視覺效果。 您可以將滑�
 
 >[!BEGINTABS]
 
->[!TAB 行]
+>[!TAB Line]
 
 若要檢視線圖，請選取&#x200B;**[!UICONTROL 屬性]**，然後選取&#x200B;**[!UICONTROL 線]**。
 

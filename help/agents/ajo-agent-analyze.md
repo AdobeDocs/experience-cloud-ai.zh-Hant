@@ -18,7 +18,7 @@ ht-degree: 38%
 
 Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析和最佳化歷程。 透過Journey Agent，從業人員可以快速識別並解決排程和/或對象衝突、偵測歷程中的使用者放棄點，並提供見解或建議。 此代理讓從業人員能夠做出資料驅動的決策、提高客戶參與度，及簡化歷程協調流程。
 
-在此[總覽](https://experienceleague.adobe.com/zh-hant/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
+在此[總覽](https://experienceleague.adobe.com/en/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
 
 >[!AVAILABILITY]
 >

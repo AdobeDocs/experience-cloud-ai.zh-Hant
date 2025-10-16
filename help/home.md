@@ -4,7 +4,7 @@ description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI
 source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
 workflow-type: tm+mt
 source-wordcount: '645'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ## 本指南包含的內容
 
-### AI助理
+### AI 助理
 
 [AI Assistant](./ai-assistant/ai-assistant-ui.md)是智慧型對話式、創造性的AI工具，可提升生產力並重新定義Adobe Experience Platform應用程式中的工作。 使用者可以透過自然語言提示獲得產品知識、疑難排解問題，並尋找運營見解。 您也可以使用AI助理來存取Adobe Experience Platform代理程式和其他AI功能。
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 ### Agent Orchestrator
 
-[Adobe Experience Platform Agent Orchestrator](./agents/agent-orchestrator.md)是Adobe Experience Platform中的新代理程式圖層。 Experience Platform Agent Orchestrator的設計宗旨是善用平台豐富的資料和客戶知識，並支援專門建置的Adobe Experience Platform代理程式專家所提供的智慧和推理，協助他們快速且大規模地執行複雜的決策和問題解決任務，而這一切都需仰賴人力監管。 當您透過AI Assistant等對話式介面中的自然語言提出問題或要求協助時，Agent Orchestrator會自動致電專業代理商，為您提供正確的答案。 Agent Orchestrator會記住您的交談記錄，讓您在不重複內容的情況下自然建立先前的問題，並結合來自多個代理程式的深入分析，以清楚且統一的回應向您呈現。
+[Adobe Experience Platform Agent Orchestrator](./agents/agent-orchestrator.md)是Adobe Experience Platform中的新代理程式圖層。 Experience Platform Agent Orchestrator 是為了善用平台豐富的資料和客戶知識而設計，其支援專門打造的專家 Adobe Experience Platform Agents 背後運作的智慧和推理能力，使其能夠快速且大規模地執行複雜的決策和解決問題的任務，且全程皆有人工監督。當您透過像 AI 助理這樣的對話式介面，用自然語言提出問題或要求協助時，Agent Orchestrator 會自動調用專門的代理，為您取得正確的答案。Agent Orchestrator會記住您的交談記錄，讓您在不重複內容的情況下自然建立先前的問題，並結合來自多個代理程式的深入分析，以清楚且統一的回應向您呈現。
 
 **核心元件：**
 
@@ -38,7 +38,7 @@ ht-degree: 3%
 
 ### Specialized Agent
 
-#### Audience Agent
+#### Audience 代理
 
 提供有關對象的深入分析，包括：
 
@@ -91,7 +91,7 @@ AI Assistant以隱私權、安全性和控管成為建置重點：
 - 互動記錄檔的30天保留原則
 - 沙箱專屬資料隔離
 
-## 最佳實務
+## 最佳做法
 
 - 在提示中指定&#x200B;**以取得目標深入分析**
 - **使用來源引證和推理解釋來驗證回應**
