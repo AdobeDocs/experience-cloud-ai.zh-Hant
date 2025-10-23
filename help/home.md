@@ -1,10 +1,10 @@
 ---
 title: Experience Cloud 應用程式中的 AI
 description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: a19c891d1a17c9112aff3d9a52daa94ad162a553
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 16%
+source-wordcount: '802'
+ht-degree: 13%
 
 ---
 
@@ -20,11 +20,12 @@ ht-degree: 16%
 
 **主要功能：**
 
-- **對話式介面**：不同工作流程偏好設定的全熒幕和邊欄檢視選項
-- **探索提示**：依類別組織的預先設定提示（學習、分析、最佳化）
-- **內容設定**：設定目標回應的應用程式、沙箱和資料檢視設定
-- **資料視覺效果**：資料深入分析的互動式圖表和圖形
-- **回應驗證**： Source引文、推理解釋和意見反應機制
+- **對話式介面**：您可以選擇全熒幕和邊欄檢視介面，以符合您的工作流程偏好設定。
+- **探索提示**： AI助理提供預先設定的提示，這些提示會依學習、分析和最佳化等類別加以整理。
+- **內容設定**：您可以設定應用程式、沙箱和資料檢視設定，以接收根據您的需求量身打造的回應。
+- **資料視覺效果**：此工具可提供互動式圖表和圖形，讓您從資料中獲得深入見解。
+- **回應驗證**：所有回應都包含來源引文、AI推理的解釋，以及提供意見回饋的機制。
+
 
 ### Agent Orchestrator
 
@@ -40,36 +41,36 @@ ht-degree: 16%
 
 #### Audience 代理
 
-提供有關對象的深入分析，包括：
+Audience Agent可提供對受眾的深入分析，包括：
 
-- 偵測受眾人數的重大變更
-- 識別重複的對象
-- 探索對象詳細目錄
-- 擷取對象人數
+- 偵測重大的對象人數變化。
+- 識別重複的對象。
+- 探索對象詳細目錄。
+- 擷取對象人數。
 
 #### Data Insights Agent
 
-此代理程式可在Customer Journey Analytics中使用：
+Customer Journey Analytics中的Data Insights Agent提供：
 
-- 使用自然語言回答有關您資料的問題
-- 在Analysis Workspace中建置相關的視覺效果
-- 使用資料檢視和實際資料中的元件
+- 使用自然語言回答有關您資料的問題。
+- 在Analysis Workspace中建置相關的視覺效果。
+- 使用資料檢視和實際資料中的元件。
 
 #### Journey Agent
 
-讓Journey Optimizer使用者：
+Journey Agent可讓Adobe Journey Optimizer使用者：
 
-- 使用自然語言分析和最佳化歷程
-- 偵測並解決排程或對象衝突
-- 分析效能和流失點
+- 使用自然語言分析和最佳化歷程。
+- 偵測並解決排程或對象衝突。
+- 分析效能和流失點。
 
 #### 產品支援代理
 
-提供自助式偵錯和疑難排解功能：
+使用產品支援代理程式進行自助式偵錯和疑難排解：
 
-- 在不離開工作流程的情況下疑難排解Adobe Experience Platform功能
-- 使用AI助理互動中的內容建立支援票證
-- 透過AI助理檢查票證更新
+- 在不離開工作流程的情況下疑難排解Adobe Experience Platform功能。
+- 使用AI助理互動中的內容建立支援票證。
+- 透過AI助理檢查票證更新。
 
 ## 快速入門
 
@@ -77,33 +78,30 @@ ht-degree: 16%
 
 若要使用AI助理和Experience Platform代理程式，您的Adobe管理員需要設定適當的許可權：
 
-- **Real-Time CDP和Adobe Journey Optimizer**：需要有「啟用AI助理」許可權和「檢視作業分析」許可權才能解決作業問題
-- **Customer Journey Analytics**：透過Customer Journey Analytics存取控制存取產品知識和資料見解問題
-- **Adobe Experience Manager**：透過Adobe Admin Console存取
+- 若要在Real-Time CDP和Adobe Journey Optimizer中使用AI助理，您需要「啟用AI助理」許可權以及「檢視作業分析」許可權才能存取作業問題。
+- Customer Journey Analytics中的AI助理可透過Customer Journey Analytics存取控制進行管理，這可讓您詢問產品知識和資料見解問題。
+- 對於Adobe Experience Manager，您可以透過Adobe Admin Console中設定的許可權來存取AI助理。
 
 ### 隱私權與安全性
 
 AI Assistant以隱私權、安全性和控管成為建置重點：
 
-- 沒有用於訓練的個人資料
-- 會遵循所有現有的存取控制原則
-- 與Adobe Experience Platform Healthcare Shield搭配使用時可支援HIPAA
-- 互動記錄檔的30天保留原則
-- 沙箱專屬資料隔離
+- 不會將任何個人資料用於訓練。
+- 會遵循所有現有的存取控制原則。
+- 與Adobe Experience Platform Healthcare Shield搭配使用時可支援HIPAA。
+- 互動記錄檔的30天保留原則。
+- 沙箱專屬資料隔離。
 
 ## 最佳做法
 
-- 在提示中指定&#x200B;**以取得目標深入分析**
-- **使用來源引證和推理解釋來驗證回應**
-- **使用內容設定**&#x200B;以確保相關的資料來源
-- **提供意見回饋**&#x200B;以協助改善AI助理效能
-- **結合來自多個代理程式的深入分析**，以進行全面分析
+若要從您的AI Assistant體驗中獲得最大價值，請遵循以下最佳實務：
+
+- **在提示中指定**，以從AI助理取得目標和相關見解。
+- **檢閱來源引文和AI助理提供的推理解釋，以驗證回應**。
+- **使用內容設定**&#x200B;以確保您的問題使用了最相關的資料來源。
+- **提供意見回饋**，協助改善AI助理在一段時間內的效能和準確性。
+- **結合來自多個代理程式的深入分析**，以獲得更完整全面的分析。
 
 ## 法律考量
 
-- AI助理目前僅支援英文
-- 永遠驗證回應，因為語言模型可能會出錯
-- 檢閱提供的推理步驟和解釋
-- 針對任何問題或不準確之處提交意見回饋
-
-本指南提供在您的Experience Cloud應用程式中有效使用AI功能所需的一切，從基本互動到進階代理程式協調與特殊工作流程。
+使用AI Assistant時，請務必注意重要的法律和實務考量。 目前，AI Assistant僅支援英文回應。 請務必確認所提供的資訊，因為語言模型偶爾可能會出錯。 運用回應中所包含的推理步驟和解釋，更能瞭解您收到的答案。 如果您遇到任何問題或不準確之處，請提交意見回饋，以協助逐漸改善AI小幫手。

@@ -1,7 +1,7 @@
 ---
 title: AI 助理使用者介面指南
 description: 瞭解如何在使用者介面中存取和使用AI Assistant。
-source-git-commit: 4bb6da3fe1abee98446df62c94730274e0931493
+source-git-commit: a19c891d1a17c9112aff3d9a52daa94ad162a553
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -15,6 +15,8 @@ AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生
 請閱讀本指南以瞭解如何使用AI助理。
 
 ![全熒幕的AI助理主介面。](./images/ai-assistant/blank-home.png)
+
+>[!SLIDE](agent-orchestrator-ui)
 
 ## 存取 AI 助理
 

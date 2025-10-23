@@ -1,7 +1,7 @@
 ---
 title: Audience 代理
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
-source-git-commit: 2c50a4abaf9606e3c7887073053d0cde3ec761e5
+source-git-commit: f2b5bd1a59055a8ca6785abfc2d0a336eea7fd98
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 2%
@@ -20,6 +20,8 @@ ht-degree: 2%
 >**管理區段**： 「收件者」許可權可讓您使用Audience Agent直接在AI Assistant中建立新對象。
 
 Audience Agent可讓您檢視對象的相關深入分析，包括偵測對象人數的重大變更、偵測重複的對象、探索您的對象詳細目錄，以及擷取對象人數。
+
+>[!SLIDE](audience-agent-overview)
 
 ## 支援的使用案例
 
