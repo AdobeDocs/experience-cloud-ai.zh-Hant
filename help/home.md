@@ -1,9 +1,9 @@
 ---
 title: Experience Cloud 應用程式中的 AI
 description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
-source-git-commit: a19c891d1a17c9112aff3d9a52daa94ad162a553
+source-git-commit: 8c05562121071874002afd6d248f16186616da55
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '830'
 ht-degree: 13%
 
 ---
@@ -48,6 +48,8 @@ Audience Agent可提供對受眾的深入分析，包括：
 - 探索對象詳細目錄。
 - 擷取對象人數。
 
+如需詳細資訊，請參閱[Audience Agent檔案](./agents/audience.md)。
+
 #### Data Insights Agent
 
 Customer Journey Analytics中的Data Insights Agent提供：
@@ -56,13 +58,15 @@ Customer Journey Analytics中的Data Insights Agent提供：
 - 在Analysis Workspace中建置相關的視覺效果。
 - 使用資料檢視和實際資料中的元件。
 
-#### Journey Agent
+#### 歷程分析代理
 
-Journey Agent可讓Adobe Journey Optimizer使用者：
+Journey Analyze代理程式可讓Adobe Journey Optimizer使用者：
 
 - 使用自然語言分析和最佳化歷程。
 - 偵測並解決排程或對象衝突。
 - 分析效能和流失點。
+
+如需詳細資訊，請參閱[歷程分析代理程式檔案](./agents/ajo-agent-analyze.md)。
 
 #### 產品支援代理
 
@@ -71,6 +75,8 @@ Journey Agent可讓Adobe Journey Optimizer使用者：
 - 在不離開工作流程的情況下疑難排解Adobe Experience Platform功能。
 - 使用AI助理互動中的內容建立支援票證。
 - 透過AI助理檢查票證更新。
+
+如需詳細資訊，請參閱[產品支援代理程式檔案](./agents/product-support.md)。
 
 ## 快速入門
 
