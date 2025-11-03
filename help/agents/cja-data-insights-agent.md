@@ -3,7 +3,7 @@ description: 瞭解如何在Customer Journey Analytics中使用Data Insights Age
 title: 在Customer Journey Analytics中使用Data Insights Agent以視覺效果呈現資料
 role: User, Admin
 solution: Customer Journey Analytics
-source-git-commit: c29bac7450d29eda617dd712d7d5f55a0a2ca481
+source-git-commit: 0e366e182cfccf2c081f6e5689c02b650148a7b9
 workflow-type: tm+mt
 source-wordcount: '2497'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 >
 >Data Insights Agent在限定時間內可供符合資格的客戶使用。 Data Insights Agent的存取權將於2026年2月28日終止。 若要繼續使用Data Insights Agent而不中斷，請聯絡您的Adobe客戶代表以瞭解更多有關授權Data Insights Agent的資訊。
 
-Data Insights Agent是產生式AI交談代理程式，可透過Customer Journey Analytics的[AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)存取，能夠快速有效回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。
+Data Insights Agent是產生式AI交談代理程式，可透過Customer Journey Analytics的[AI小幫手](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)存取，能夠快速有效回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。
 
 使用Data Insights Agent來回答Analysis Workspace中以資料為中心的問題，可節省您原本要在Analysis Workspace中手動建立視覺效果和熟悉資料檢視元件所花費的無數時間。
 
@@ -53,6 +53,7 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
 * **許可權**：必須先在[!UICONTROL Adobe Admin Console]中授與必要的許可權，使用者才能存取Data Insights Agent。
 
   若要授與許可權，[產品設定檔管理員](https://helpx.adobe.com/tw/enterprise/using/manage-product-profiles.html)必須在[!UICONTROL Admin Console]中完成下列步驟：
+
    1. 在&#x200B;**[!UICONTROL Admin Console]**&#x200B;中，選取&#x200B;**[!UICONTROL 產品]**&#x200B;索引標籤以檢視&#x200B;**[!UICONTROL 所有產品和服務]**&#x200B;頁面。
    1. 選取&#x200B;**[!UICONTROL Customer Journey Analytics]**。
    1. 在&#x200B;**[!UICONTROL 產品設定檔]**&#x200B;索引標籤上，選取您要為其提供[!UICONTROL AI助理：產品知識]存取權的產品設定檔標題。
@@ -70,7 +71,7 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
 
    1. 選取&#x200B;**[!UICONTROL 儲存]**&#x200B;以儲存許可權。
 
-  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control#access-control)。
+  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control#access-control)。
 
 * **資料檢視存取**：必須為Data Insights Agent啟用資料檢視。
 
@@ -83,7 +84,6 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
   若要啟用Data Insights Agent的資料檢視：
 
    1. 在Customer Journey Analytics中，選取&#x200B;**[!UICONTROL 資料管理]** > **[!UICONTROL 資料檢視]**。
-
    1. 選取一或多個要為Data Insights Agent啟用的資料檢視，然後選取&#x200B;**[!UICONTROL 為Data Insights Agent啟用]**。
 
       ![啟用Data Insights Agent的資料檢視](images/cja-agent/data-view-enable-dia.png)
@@ -91,7 +91,6 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
   若要檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量：
 
    1. 在Customer Journey Analytics中，選取&#x200B;**[!UICONTROL 資料管理]** > **[!UICONTROL 資料檢視]**。
-
    1. 選取&#x200B;**[!UICONTROL Data Insights Agent]**&#x200B;欄頂端的資訊圖示。
 
       ![Data Insights Agent資訊圖示](images/cja-agent/data-insights-agent-tooltip.png)
@@ -99,26 +98,21 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
 ## 在AI助理中存取Data Insights Agent
 
 1. 前往[experience.adobe.com](https://experience.adobe.com/)並使用您的Adobe ID登入。
-
-2. 從Experience Cloud首頁選取&#x200B;**Customer Journey Analytics**。
-
-3. 在專案頁面頂端的橫幅中選取&#x200B;**[!UICONTROL 空白專案]**&#x200B;以開啟新的空白專案。
-
-4. 請確認為面板選取的資料檢視是已啟用與Data Insights Agent搭配使用的資料檢視，如[在Customer Journey Analytics中管理Data Insights Agent的存取權](#manage-access-to-data-insights-agent-in-customer-journey-analytics)中所述。
-
-5. 在頁面的右上角區域選取AI助理聊天圖示。
+1. 從Experience Cloud首頁選取&#x200B;**Customer Journey Analytics**。
+1. 在專案頁面頂端的橫幅中選取&#x200B;**[!UICONTROL 空白專案]**&#x200B;以開啟新的空白專案。
+1. 請確認為面板選取的資料檢視是已啟用與Data Insights Agent搭配使用的資料檢視，如[在Customer Journey Analytics中管理Data Insights Agent的存取權](#manage-access-to-data-insights-agent-in-customer-journey-analytics)中所述。
+1. 在頁面的右上角區域選取AI助理聊天圖示。
 
    如果您沒有看到聊天圖示，請聯絡您的管理員，以便他們在Admin Console中啟用以下功能：
 
    * 報告工具： **[!UICONTROL AI助理：產品知識]**
-
    * 資料檢視工具： **[!UICONTROL Data Insights Agent]**
 
    如需詳細資訊，請參閱[在Customer Journey Analytics中管理Data Insights Agent的存取權](#manage-access-to-data-insights-agent-in-customer-journey-analytics)。
 
    ![AI助理圖示](images/cja-agent/ai-asst-icon.png)
 
-6. 在頁面底部的&#x200B;**[!UICONTROL 詢問Customer Journey Analytics]**&#x200B;對話方塊中，使用Data Insights Agent詢問資料視覺效果問題。
+1. 在頁面底部的&#x200B;**[!UICONTROL 詢問Customer Journey Analytics]**&#x200B;對話方塊中，使用Data Insights Agent詢問資料視覺效果問題。
 
    如需詳細資訊，請參閱下列範例。
 
@@ -192,7 +186,6 @@ Agent Orchestrator會解譯您的請求、決定需要哪些專業代理程式�
 | 按月份和年份的購買比例 | 環形圖 |
 | [個月]的總利潤 | 摘要數字<p>在特定時間範圍內詢問量度的「總計」時，應該會傳回「摘要數字」視覺效果。 |
 
-
 ## 提示最佳實務
 
 Data Insights Agent會處理每個使用者提示所提供的內容，並嘗試以自由格式表格方式，以最適當的視覺效果和元件聰明地回應。
@@ -261,8 +254,7 @@ Following the thumbs up or thumbs down selection, please make a selection for th
 
 >[!MORELIKETHIS]
 >
->[元件設定](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[資料字典](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[核准計算量度](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
->
+>[元件設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
+>[資料字典](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
+>[核准計算量度](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
+>[共用區段](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share)
