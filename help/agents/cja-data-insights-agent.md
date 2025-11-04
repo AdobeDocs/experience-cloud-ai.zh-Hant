@@ -3,9 +3,9 @@ description: 瞭解如何在Customer Journey Analytics中使用Data Insights Age
 title: 在Customer Journey Analytics中使用Data Insights Agent以視覺效果呈現資料
 role: User, Admin
 solution: Customer Journey Analytics
-source-git-commit: 0e366e182cfccf2c081f6e5689c02b650148a7b9
+source-git-commit: 04a73ac0f705cd3a2184fb2f8599aff85b7bb5e5
 workflow-type: tm+mt
-source-wordcount: '2497'
+source-wordcount: '2499'
 ht-degree: 1%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->Data Insights Agent在限定時間內可供符合資格的客戶使用。 Data Insights Agent的存取權將於2026年2月28日終止。 若要繼續使用Data Insights Agent而不中斷，請聯絡您的Adobe客戶代表以瞭解更多有關授權Data Insights Agent的資訊。
+>Data Insights Agent在限定時間內可供符合資格的客戶使用。 Data Insights Agent的存取權將於2026年2月28日之前提供。 若要繼續使用Data Insights Agent而不中斷，請聯絡您的Adobe客戶代表以瞭解更多有關授權Adobe Experience Platform Agent Orchestrator的資訊。
 
-Data Insights Agent是產生式AI交談代理程式，可透過Customer Journey Analytics的[AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)存取，能夠快速有效回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。
+Data Insights Agent是產生式AI交談代理程式，可透過Customer Journey Analytics的[AI小幫手](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant)存取，能夠快速有效回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。
 
 使用Data Insights Agent來回答Analysis Workspace中以資料為中心的問題，可節省您原本要在Analysis Workspace中手動建立視覺效果和熟悉資料檢視元件所花費的無數時間。
 
@@ -71,7 +71,7 @@ AI助理中的![Data Insights Agent](images/cja-agent//cja-ai-asst-da.gif)
 
    1. 選取&#x200B;**[!UICONTROL 儲存]**&#x200B;以儲存許可權。
 
-  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control#access-control)。
+  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control#access-control)。
 
 * **資料檢視存取**：必須為Data Insights Agent啟用資料檢視。
 
@@ -254,7 +254,7 @@ Following the thumbs up or thumbs down selection, please make a selection for th
 
 >[!MORELIKETHIS]
 >
->[元件設定](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[資料字典](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[核准計算量度](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
+>[元件設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
+>[資料字典](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
+>[核准計算量度](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
+>[共用區段](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share)
