@@ -1,9 +1,9 @@
 ---
 title: 實驗代理程式
 description: 瞭解如何使用Experimentation Agent
-source-git-commit: 0069a97bcb35f609019ec32f263175a36525161a
+source-git-commit: 5694f15d82081eed8e762fea8aabc3da1e265b04
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '535'
 ht-degree: 3%
 
 ---
@@ -12,15 +12,21 @@ ht-degree: 3%
 
 >[!AVAILABILITY]
 >
->Experimentation Agent可供所有可存取AI Assistant的客戶使用。 但是，您需要以下許可權才能完全使用Experimentation Agent功能。
+>Experimentation Agent可供所有已購買Journey Optimizer Experimentation Accelerator付費授權且與Adobe Target或Adobe Journey Optimizer無縫整合的客戶使用。
 >
->**檢視實驗**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中檢視實驗見解。
->
->**管理實驗中繼資料**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中建立新的實驗。
+>[進一步瞭解Journey Optimizer Experimentation Accelerator](https://experienceleague.adobe.com/zh-hant/docs/experimentation-accelerator/using/overview)
 
 ## 概觀
 
 **Experimentation Agent**&#x200B;是AI支援的工具，可更新您跨網站、電子郵件、推播訊息和應用程式執行和管理數位實驗的方式。 **Experimentation Agent**&#x200B;以Adobe Experience Platform AI平台和實驗工具為基礎，可協助您更有效率地執行實驗、組織業務目標，以及產生可操作的深入分析，並著重說明哪些有效專案、哪些無效專案，以及下一步在何處實驗。
+
+為了完整使用Experimentation Agent功能，請使用以下許可權。
+
+* **檢視實驗**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中檢視實驗見解。
+
+* **管理實驗中繼資料**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中建立新的實驗。
+
+➡️ [在Journey Optimizer Experimentation Accelerator檔案中進一步瞭解](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
 
 做為Experimentation Accelerator功能的一部分，代理程式提供：
 
