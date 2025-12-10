@@ -1,9 +1,9 @@
 ---
 title: Audience 代理
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
-source-git-commit: f2b5bd1a59055a8ca6785abfc2d0a336eea7fd98
+source-git-commit: ca3766477459fb13170d176057a3ea9fbb791b29
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '1204'
 ht-degree: 2%
 
 ---
@@ -34,6 +34,9 @@ AI Assistant中的Audience Agent支援下列使用案例：
    - 探索可用來定義對象的XDM欄位
 - 偵測對象人數的重大變更
    - 這可讓您找到突然增加或減少的受眾，讓您更好地分析潛在的市場變化
+- 建立客群
+   - 此技能可讓您根據指定的屬性和事件建立對象
+   - 此外，此技能可讓您在建立受眾之前估計受眾的潛在大小，讓您在準備好啟用受眾之前快速迭代最有效的受眾
 
 <!-- - Find your audience size and detect significant changes in audience size
   - This lets you find audiences that have suddenly grown or shrunk, letting you better analyze potential market changes
@@ -46,10 +49,6 @@ AI Assistant中的Audience Agent支援下列使用案例：
 
 Audience Agent **目前**&#x200B;不支援下列功能：
 
-- 知識型對象建立
-   - 以知識為基礎建立受眾，就是根據指定的屬性和事件建立受眾
-   - 此外，您可以在建立受眾之前估計受眾的潛在規模。 這可讓您在可以啟動之前，快速迭代最有效的對象
-   - 即將支援此功能
 - 目標型對象探索
    - 目標型對象探索可讓您套用機器學習模型（例如購買或轉換傾向），以探索與業務目標一致的相關資料集和設定檔。
 
@@ -178,6 +177,80 @@ Audience Agent **目前**&#x200B;不支援下列功能：
 ![AI Assistant會指出成長最快的對象名稱，以及目前的大小和成長百分比。](./images/audience/fastest-growing.png)
 
 +++
+
+### 建立客群
+
+當您使用Audience Agent建立對象時，AI助理會引導您完成計畫。 例如，您可以要求「建立由住在加州的人組成的對象」。 AI Assistant接著會列出建立對象所要執行的計畫。
+
++++ 回應
+
+![AI助理顯示建立對象的計畫。](./images/audience/audience-create-plan.png)
+
++++
+
+此計畫包含三個步驟：
+
+1. [識別對象特性](#identify)
+2. [預估對象規模](#estimate)
+3. [建立及保留新對象](#create)
+
+#### 識別對象特性 {#identify}
+
+![計畫的步驟1，用於識別對象特性。](./images/audience/plan-step-1.png){align="center" width="80%"}
+
+接受計畫後，AI Assistant將根據您最初的查詢擷取對象特性。
+
++++ 回應
+
+![根據使用者查詢的對象定義。](./images/audience/audience-create-definition.png)
+
+針對此查詢，AI Assistant會產生相關的Profile Query Language (PQL)，以尋找住在加州的人。 在此使用案例中，PQL查詢看起來會像這樣：
+
+```sql
+homeAddress.state.equals("California", false)
+```
+
+如需PQL的詳細資訊，請閱讀[PQL概觀](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/pql/overview)。
+
++++
+
+如果AI助理的對象定義正確，您就可以核准並繼續下一步驟。
+
+#### 預估對象規模 {#estimate}
+
+![計畫的步驟2，此步驟是估計潛在對象的大小。](./images/audience/plan-step-2.png){align="center" width="80%"}
+
+在核准已識別的對象特性後，AI助理將會估計潛在對象的大小和對象定義詳細資訊。
+
++++ 回應
+
+![顯示潛在受眾的樣本預估值。 將顯示預估大小和區段定義。](./images/audience/audience-create-estimate.png)
+
++++
+
+如果預估大小看起來正確，您可以核准並繼續下一步驟。
+
+#### 建立及保留新對象 {#create}
+
+![計畫的步驟3，即將完成建立對象。](./images/audience/plan-step-3.png){align="center" width="80%"}
+
+最後，如果特徵和對象人數看起來正確，您可以核准或拒絕對象的建立。
+
++++ 回應
+
+首先，您可以透過提供的資料格來檢閱建議對象。
+
+![檢閱畫面已顯示。](./images/audience/audience-create-review.png)
+
+如果對象看起來正確，您可以選取&#x200B;**[!UICONTROL 建立]**&#x200B;來接受提案，以完成建立對象。
+
+![顯示對象的完整提案。](./images/audience/audience-create-proposal.png)
+
++++
+
+對象現在已建立。
+
+![已接受對象提案，且已建立對象。](./images/audience/audience-finish-create.png){align="center" width="80%"}
 
 ## 後續步驟
 
