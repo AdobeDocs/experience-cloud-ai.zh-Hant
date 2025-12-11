@@ -1,9 +1,9 @@
 ---
 title: Audience 代理
 description: 瞭解如何使用Audience Agent建立對象、檢視對象變更、偵測重複對象及檢視對象深入分析。
-source-git-commit: ca3766477459fb13170d176057a3ea9fbb791b29
+source-git-commit: effd4fe4123953b6af375dfb46fcc669b2e35df1
 workflow-type: tm+mt
-source-wordcount: '1204'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
@@ -180,6 +180,10 @@ Audience Agent **目前**&#x200B;不支援下列功能：
 
 ### 建立客群
 
+>[!AVAILABILITY]
+>
+>如果您是Agent Orchestrator Explorer程式的一部分，則只能使用建立對象技能。 如需詳細資訊，請聯絡Adobe客戶服務。
+
 當您使用Audience Agent建立對象時，AI助理會引導您完成計畫。 例如，您可以要求「建立由住在加州的人組成的對象」。 AI Assistant接著會列出建立對象所要執行的計畫。
 
 +++ 回應
@@ -210,7 +214,7 @@ Audience Agent **目前**&#x200B;不支援下列功能：
 homeAddress.state.equals("California", false)
 ```
 
-如需PQL的詳細資訊，請閱讀[PQL概觀](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/segmentation/pql/overview)。
+如需PQL的詳細資訊，請閱讀[PQL概觀](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/pql/overview)。
 
 +++
 
