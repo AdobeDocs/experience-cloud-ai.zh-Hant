@@ -26,7 +26,7 @@ ht-degree: 3%
 
 * **管理實驗中繼資料**：此許可權可讓您使用實驗代理程式，直接在AI Assistant中建立新的實驗。
 
-➡️ [在Journey Optimizer Experimentation Accelerator檔案中進一步瞭解](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
+➡️ [在Journey Optimizer Experimentation Accelerator檔案中進一步瞭解](https://experienceleague.adobe.com/zh-hant/docs/experimentation-accelerator/using/get-started/experiment-accelerator-access)
 
 做為Experimentation Accelerator功能的一部分，代理程式提供：
 
