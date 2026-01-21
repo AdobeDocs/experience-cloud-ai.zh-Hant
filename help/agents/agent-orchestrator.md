@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform Agent Orchestrator
 description: 瞭解Adobe Experience Platform Agent Orchestrator。
-source-git-commit: 8c05562121071874002afd6d248f16186616da55
+source-git-commit: 0e3839f829efc5670c235435d49ed5e49da2ed13
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 11%
@@ -26,7 +26,7 @@ Agent Orchestrator由數個關鍵元件組成，包括AI Assistant對話介面�
 
 ### AI 助理對話式介面 {#ai-assistant}
 
-AI Assistant是一種智慧型自然語言對話體驗，可讓使用已啟用的Experience Cloud應用程式的從業人員運用GenAI和Agentic AI功能，其範圍取決於客戶授權的Experience Cloud應用程式。 若要解除鎖定存取權，請閱讀[存取AI助理的指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/access)。
+AI Assistant是一種智慧型自然語言對話體驗，可讓使用已啟用的Experience Cloud應用程式的從業人員運用GenAI和Agentic AI功能，其範圍取決於客戶授權的Experience Cloud應用程式。 若要解除鎖定存取權，請閱讀[存取AI助理的指南](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/access)。
 
 如需詳細資訊，請閱讀 [AI 助理使用者介面指南](../ai-assistant/ai-assistant-ui.md)。
 
@@ -41,9 +41,9 @@ Adobe Experience Platform代理是專門建置的AI代理程式群組，擅長�
 | 代理程式 | 詳細資料 | 支援的應用程式 |
 | --- | --- | --- |
 | [Audience Agent](audience.md) | Audience Agent可讓您檢視對象的相關深入分析，包括偵測對象人數的重大變更、偵測重複的對象、探索您的對象詳細目錄，以及擷取對象人數。 | <ul><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li></ul> |
-| [Data Insights Agent](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Data Insights Agent可透過Customer Journey Analytics中的AI助理存取，是具創造性的AI交談代理程式，可快速並有效率地回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。 | Customer Journey Analytics |
-| [實驗代理程式](./agent-experiment.md) | 實驗代理程式可透過分析實驗結果、預測影響並提出新實驗來協助團隊更快地學習。 它將過去和正在進行的實驗集中在一起，因此您可以根據已學到的內容來建構，找出差距，並排定下一個測試的優先順序。 | Adobe Journey Optimizer Experimentation Accelerator |
-| [Journey Agent](./ajo-agent-analyze.md) | Journey Agent可讓Adobe Journey Optimizer使用者使用自然語言介面建立、分析和最佳化歷程。 有了Journey Agent，您可以快速建立歷程、偵測並解決排程或對象衝突、分析效能和流失點，並找出表現最佳的歷程，以復寫給未來的行銷活動。 它可幫助您制定資料導向式決策、改善客戶參與度並簡化歷程協調。 | Adobe Journey Optimizer |
+| [Data Insights Agent](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai) | Data Insights Agent可透過Customer Journey Analytics中的AI助理存取，是具創造性的AI交談代理程式，可快速並有效率地回答有關您資料的問題。 它會使用您資料檢視中的元件，並使用您的實際資料，在Analysis Workspace中建置相關的視覺效果。 | Customer Journey Analytics |
+| [Experimentation Agent](./agent-experiment.md) | Experimentation Agent透過分析實驗結果、預測影響和建議新實驗，幫助團隊更快地學習。 它將過去和正在進行的實驗集中在一起，因此您可以根據已學到的內容來建構，找出差距，並排定下一個測試的優先順序。 | Adobe Journey Optimizer Experimentation Accelerator |
+| [Journey Agent](./ajo-agent.md) | Journey Agent可讓Adobe Journey Optimizer使用者使用自然語言介面建立、分析和最佳化歷程。 有了Journey Agent，您可以快速建立歷程、偵測並解決排程或對象衝突、分析效能和流失點，並找出表現最佳的歷程，以復寫給未來的行銷活動。 它可幫助您制定資料導向式決策、改善客戶參與度並簡化歷程協調。 | Adobe Journey Optimizer |
 | [產品支援代理程式](product-support.md) | 產品支援代理程式是自助式的偵錯和疑難排解功能，可協助您疑難排解Adobe Experience Platform功能和應用程式，而不會離開您的工作流程。 支援管理員可以使用您的AI助理互動中的內容來建立客戶支援票證，並且您可以透過AI助理來檢查票證更新。 | <ul><li>Adobe Experience Platform</li><li>Real-Time CDP</li><li>Adobe Journey Optimizer</li><li>Adobe Journey Optimizer B2B edition</li><li>Customer Journey Analytics</li><li>Adobe Experience Manager</li></ul> |
 
 如需有關Experience Cloud應用程式中代理程式可用性的進一步資訊，請檢閱Experience Cloud檔案中的[代理程式AI](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/agentic-ai)。
@@ -60,7 +60,7 @@ AI助理要求會使用Adobe Identity Management服務進行驗證。 授權是�
 
 * **Real-Time CDP**&#x200B;和&#x200B;**Adobe Journey Optimizer**：您的系統管理員必須授與您啟用AI小幫手&#x200B;**許可權**，才能讓您存取AI小幫手。 您的管理員還必須授與您檢視營運分析&#x200B;**許可權，允許您在AI助理中詢問營運分析問題。**&#x200B;這兩個許可權都是由管理員在許可權UI中設定。
 
-* **Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。
+* **Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。
 
 >[!NOTE]
 >

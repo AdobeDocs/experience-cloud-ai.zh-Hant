@@ -5,10 +5,10 @@ user-guide-description: 了解如何使用 AI 助理來加快 Adobe Experience P
 description: 了解關於 Experience Cloud 中的 AI 助理。使用 Experience Cloud 中的 AI 來增加您的產品知識及獲得運作洞察。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 864002185f3745ca76180af192f616d1e5da0791
+source-git-commit: 0e3839f829efc5670c235435d49ed5e49da2ed13
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 65%
+source-wordcount: '80'
+ht-degree: 68%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 65%
    - [Audience 代理](./agents/audience.md)
    - [Data Insights Agent](./agents/cja-data-insights-agent.md)
    - [實驗代理程式](./agents/agent-experiment.md)
-   - [歷程分析代理](./agents/ajo-agent-analyze.md)
-   - [歷程建立代理程式](./agents/ajo-agent-create.md)
+   - [Journey Agent](./agents/ajo-agent.md)
    - [產品支援代理](./agents/product-support.md)
 

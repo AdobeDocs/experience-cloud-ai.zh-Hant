@@ -1,9 +1,9 @@
 ---
 title: Experience Cloud 應用程式中的 AI
 description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
-source-git-commit: 8c05562121071874002afd6d248f16186616da55
+source-git-commit: 0e3839f829efc5670c235435d49ed5e49da2ed13
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '829'
 ht-degree: 13%
 
 ---
@@ -66,7 +66,7 @@ Journey Analyze代理程式可讓Adobe Journey Optimizer使用者：
 - 偵測並解決排程或對象衝突。
 - 分析效能和流失點。
 
-如需詳細資訊，請參閱[歷程分析代理程式檔案](./agents/ajo-agent-analyze.md)。
+如需詳細資訊，請參閱[Journey Agent檔案](./agents/ajo-agent.md)。
 
 #### 產品支援代理
 
