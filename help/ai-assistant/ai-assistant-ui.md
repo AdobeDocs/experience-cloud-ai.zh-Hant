@@ -1,7 +1,7 @@
 ---
 title: AI 助理使用者介面指南
 description: 瞭解如何在使用者介面中存取和使用AI Assistant。
-source-git-commit: a19c891d1a17c9112aff3d9a52daa94ad162a553
+source-git-commit: 0e7306c50fbb6913bfd08d9d31484ec1690be91d
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -72,7 +72,7 @@ AI Assistant介麵包含數個關鍵元素，可幫助您有效互動：
 
 本節提供AI助理使用者介面中主要功能和導覽選項的概觀。 說明如何存取AI助理，說明全熒幕和邊欄檢視的版面和控制項，並介紹對話、輸入功能、自動完成、內容設定和探索提示等關鍵工具。 以下幾節提供使用這些功能與AI助理互動並充分利用您的體驗的詳細指引。
 
-### 探索提示
+### 探索提示 {#discovery-prompts}
 
 您可以使用AI Assistant的探索功能，檢視AI Assistant支援的一般主體清單（群組為實體）。 探索提示會因您的起點而有所不同。
 
