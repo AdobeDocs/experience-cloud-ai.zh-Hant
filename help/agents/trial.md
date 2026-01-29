@@ -1,9 +1,7 @@
 ---
 title: Adobe Experience Platform代理程式使用範圍試用
 description: 瞭解Adobe Experience Platform Agent的免費試用版。
-hide: true
-hidefromtoc: true
-source-git-commit: d764d3f5ef2b5dcd18fd754298fae5e2b145805f
+source-git-commit: a94ab9a30900e2d3a8db44994a1cb51a5f9361ff
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 2%
@@ -25,7 +23,7 @@ ht-degree: 2%
 
 Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Adobe Experience Platform Agent Orchestrator Promotion授權或Experience Platform Agents AI Credits授權的客戶不符合試用資格。
 
-符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
+符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
 
 >[!IMPORTANT]
 >
