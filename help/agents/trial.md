@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Adobe Experience Platform Agent Orchestrator Promotion授權或Experience Platform Agents AI Credits授權的客戶不符合試用資格。
 
-符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
+符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 >[!IMPORTANT]
 >
@@ -69,7 +69,7 @@ Adobe Experience Platform代理程式使用限制試用版可讓符合資格的�
 
 ### 誰能看到使用情形以及如何檢視？
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 
