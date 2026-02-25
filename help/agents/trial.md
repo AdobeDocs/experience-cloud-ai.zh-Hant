@@ -16,7 +16,7 @@ ht-degree: 1%
 
 以下影片旨在協助您瞭解Adobe Experience Platform代理程式使用限制試用版。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480228?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480239?captions=chi_hant&learn=on)
 
 ## 試用版提供哪些功能
 
