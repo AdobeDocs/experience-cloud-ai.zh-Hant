@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience Platform代理程式使用範圍試用
 description: 瞭解Adobe Experience Platform Agent的免費試用版。
-source-git-commit: 919abbc1a4919b46f6a9beec6f8e3dc71dc4edb7
+source-git-commit: 0da2be4ca1026abb04a230eb5d1eb2c8c776b0a6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1040'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 1%
 >
 >某些符合資格的Experience Cloud客戶在承諾授權之前，可能會存取特定用途的Adobe Experience Platform代理程式試用版，以便在他們自己的環境中體驗代理程式的價值。
 
+以下影片旨在協助您瞭解Adobe Experience Platform代理程式使用限制試用版。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480228?learn=on)
+
 ## 試用版提供哪些功能
 
 - **AI Assistant**：全頁式的沈浸式對話介面，由Agent Orchestrator提供支援，可在跨產品上運作，讓使用已啟用的Experience Cloud產品的從業人員能夠運用GenAI和Agentic AI功能。 如需詳細資訊，請閱讀 [AI 助理使用者介面指南](../ai-assistant/ai-assistant-ui.md)。
@@ -23,7 +27,7 @@ ht-degree: 1%
 
 Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Adobe Experience Platform Agent Orchestrator Promotion授權或Experience Platform Agents AI Credits授權的客戶不符合試用資格。
 
-符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
+符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
 
 >[!IMPORTANT]
 >
@@ -69,7 +73,7 @@ Adobe Experience Platform代理程式使用限制試用版可讓符合資格的�
 
 ### 誰能看到使用情形以及如何檢視？
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
 
 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 
