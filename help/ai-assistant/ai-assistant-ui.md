@@ -1,14 +1,28 @@
 ---
 title: AI 助理使用者介面指南
 description: 了解如何於使用者介面中存取及使用 AI 助理。
-source-git-commit: 0e7306c50fbb6913bfd08d9d31484ec1690be91d
+source-git-commit: 434f438eca130ca76e5303ac7040082daaf46bc8
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '2093'
 ht-degree: 2%
 
 ---
 
 # AI 助理
+
+>[!IMPORTANT]
+>
+>本檔案適用於AI Assistant (Next-Gen)。 如需AI助理（舊版）的相關資訊，請參閱Adobe Experience Platform檔案中的[AI助理UI指南](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)。
+
+請參閱下表以取得「AI助理（舊版）」和「AI助理（次世代）」的比較結果：
+
+| 功能區域 | AI助理（舊版） | AI助理（新一代） |
+| --- | --- | --- |
+| 使用者體驗 | AI助理（舊版）僅在右邊欄面板中可用。 | AI Assistant (Next-Gen)提供右欄面板和沈浸式全熒幕體驗。 |
+| 功能範圍 | 您可以使用AI助理（舊版）來取得產品知識和營運見解。 | 您可以使用AI Assistant （新一代）來瞭解產品知識、營運深入分析，以及進階代理技能和多步驟任務執行。 |
+| 平台架構 | AI助理（舊版）並非建置在Agent Orchestrator棧疊上。 | AI Assistant (Next-Gen)由[Adobe Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator)提供技術支援，可擴充性以及各種功能的進階協調。 |
+| 應用程式涵蓋範圍 | AI助理（舊版）是應用程式專用的實作。 | 您可以使用AI助理（新一代），在所有Adobe Experience Cloud應用程式中提供統一的AI助理體驗。 |
+| 存取與許可權模型 | 應用程式範圍的存取模型會與個別產品邊界對齊。 | 所有使用者都能存取AI Assistant (Next-Gen)和相關聯的Experience Platform代理程式。 **附註**： <ul><li>**Adobe Experience Manager**：您的管理員必須授予您透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)存取AI小幫手(Next-Gen)的許可權。</li><li>**Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control?lang=en)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。 |
 
 AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生產力並重新定義Adobe Experience Platform應用程式中的工作。 您可以使用AI助理來存取Adobe Experience Platform代理程式和其他AI功能。
 
