@@ -1,18 +1,14 @@
 ---
 title: 產品支援代理
 description: 了解如何使用 AI 助理中的產品支援代理人，簡化疑難排解和客戶支援服務單歸檔流程。
-source-git-commit: adf65e0d4c623fbd74645006939702b64b0c1fdd
+source-git-commit: 57e123e7fed24c26403adbc637814ca6a9ccf68e
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '365'
 ht-degree: 5%
 
 ---
 
 # 產品支援代理
-
->[!AVAILABILITY]
->
->產品支援代理商僅在有限時間內可供符合資格的客戶使用。 我們將於2026年2月28日停止存取產品支援代理程式。 若要在此日期之後繼續使用產品支援代理程式，而不中斷，請聯絡您的Adobe客戶代表，以瞭解更多有關授權Adobe Experience Platform Agent Orchestrator的資訊。
 
 產品支援代理程式是AI Assistant的自助式偵錯和疑難排解功能，可用於Adobe Experience Platform功能和應用程式。
 
@@ -61,5 +57,5 @@ ht-degree: 5%
 
 如需詳細資訊，請觀看以下影片，瞭解如何使用產品支援代理程式進行順暢的疑難排解，而不需要離開您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443194?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443183?learn=on)
 
