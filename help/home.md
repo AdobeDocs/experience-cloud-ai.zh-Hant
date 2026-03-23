@@ -1,10 +1,10 @@
 ---
 title: Experience Cloud 應用程式中的 AI
 description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
-source-git-commit: 0e3839f829efc5670c235435d49ed5e49da2ed13
+source-git-commit: 73d63e310783310d0e6fb3d696ded7d4edb5bede
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 13%
+source-wordcount: '902'
+ht-degree: 16%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 13%
 
 ### Agent Orchestrator
 
-[Adobe Experience Platform Agent Orchestrator](./agents/agent-orchestrator.md)是Adobe Experience Platform中的新代理程式圖層。 Experience Platform Agent Orchestrator 是為了善用平台豐富的資料和客戶知識而設計，其支援專門打造的專家 Adobe Experience Platform Agents 背後運作的智慧和推理能力，使其能夠快速且大規模地執行複雜的決策和解決問題的任務，且全程皆有人工監督。當您透過像 AI 助理這樣的對話式介面，用自然語言提出問題或要求協助時，Agent Orchestrator 會自動調用專門的代理，為您取得正確的答案。Agent Orchestrator會記住您的交談記錄，讓您在不重複內容的情況下自然建立先前的問題，並結合來自多個代理程式的深入分析，以清楚且統一的回應向您呈現。
+[Adobe Experience Platform Agent Orchestrator](./agents/agent-orchestrator.md)是Adobe Experience Platform中的新代理程式圖層。 Experience Platform Agent Orchestrator 是為了善用平台豐富的資料和客戶知識而設計，其支援專門打造的專家 Adobe Experience Platform Agents 背後運作的智慧和推理能力，使其能夠快速且大規模地執行複雜的決策和解決問題的任務，且全程皆有人工監督。 當您透過像 AI 助理這樣的對話式介面，用自然語言提出問題或要求協助時，Agent Orchestrator 會自動調用專門的代理，為您取得正確的答案。 Agent Orchestrator 會記住您的對話記錄，讓您可以不必複述相關背景資訊，即可自然地在先前問題的基礎上繼續提問，並且結合來自多個代理的洞察，為您提供清楚且統一的回答。
 
 **核心元件：**
 
@@ -77,6 +77,16 @@ Journey Analyze代理程式可讓Adobe Journey Optimizer使用者：
 - 透過AI助理檢查票證更新。
 
 如需詳細資訊，請參閱[產品支援代理程式檔案](./agents/product-support.md)。
+
+#### [!DNL Microsoft 365 Copilot]的Adobe Marketing Agent
+
+使用適用於[!DNL Microsoft 365 Copilot]的Adobe Marketing Agent，在[!DNL Teams]、[!DNL Word]、[!DNL Powerpoint]和[!DNL Excel]等[!DNL Microsoft 365]個應用程式中擷取Experience Platform的行銷深入分析。 使用此代理程式，您可以：
+
+- 做出更快、資料導向的行銷決策。
+- 減少在工具之間切換所花費的時間。
+- 簡化存取跨團隊的對象和歷程深入分析。
+
+如需詳細資訊，請參閱[Adobe Marketing Agent檔案](./agents/ama-ms.md)。
 
 ## 快速入門
 
