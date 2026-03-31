@@ -1,10 +1,10 @@
 ---
 title: AI 助理使用者介面指南
 description: 了解如何於使用者介面中存取及使用 AI 助理。
-source-git-commit: 434f438eca130ca76e5303ac7040082daaf46bc8
+source-git-commit: ec03f46b5d80558b683f6cd4330f51258b7378a1
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 2%
+source-wordcount: '2162'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 | 功能範圍 | 您可以使用AI助理（舊版）來取得產品知識和營運見解。 | 您可以使用AI Assistant （新一代）來瞭解產品知識、營運深入分析，以及進階代理技能和多步驟任務執行。 |
 | 平台架構 | AI助理（舊版）並非建置在Agent Orchestrator棧疊上。 | AI Assistant (Next-Gen)由[Adobe Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator)提供技術支援，可擴充性以及各種功能的進階協調。 |
 | 應用程式涵蓋範圍 | AI助理（舊版）是應用程式專用的實作。 | 您可以使用AI助理（新一代），在所有Adobe Experience Cloud應用程式中提供統一的AI助理體驗。 |
-| 存取與許可權模型 | 應用程式範圍的存取模型會與個別產品邊界對齊。 | 所有使用者都能存取AI Assistant (Next-Gen)和相關聯的Experience Platform代理程式。 **附註**： <ul><li>**Adobe Experience Manager**：您的管理員必須授予您透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)存取AI小幫手(Next-Gen)的許可權。</li><li>**Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control?lang=en)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。 |
+| 存取與許可權模型 | 應用程式範圍的存取模型會與個別產品邊界對齊。 | 所有使用者都能存取AI Assistant (Next-Gen)和相關聯的Experience Platform代理程式。**附註**： <ul><li>**Adobe Experience Manager**：您的管理員必須授予您透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)存取AI小幫手(Next-Gen)的許可權。</li><li>**Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control?lang=en)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。 |
 
 AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生產力並重新定義Adobe Experience Platform應用程式中的工作。 您可以使用AI助理來存取Adobe Experience Platform代理程式和其他AI功能。
 
@@ -44,7 +44,7 @@ AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生
 
 +++
 
-您也可以從Experience Cloud應用程式(例如Experience Platform、Adobe Journey Optimizer和Customer Journey Analytics)的首頁啟動AI助理。 導覽至您的產品首頁，然後從頂端標題選取&#x200B;**AI助理圖示**，以啟動右側邊欄的AI助理聊天面板。
+您也可以從Experience Cloud應用程式（例如Experience Platform、Adobe Journey Optimizer和Customer Journey Analytics）的首頁啟動AI助理。 導覽至您的產品首頁，然後從頂端標題選取&#x200B;**AI助理圖示**，以啟動右側邊欄的AI助理聊天面板。
 
 +++選取以檢視
 
@@ -210,7 +210,7 @@ AI Assistant接著會查詢其知識庫並計算答案。 幾分鐘後，AI Assi
 | --- | --- | --- |
 | 應用程式 | 您查詢所屬的Experience Cloud應用程式。 | Experience Platform、Journey Optimizer、Customer Journey Analytics等 |
 | 沙箱 | 包含您的查詢相關資料集或資訊的沙箱。 | 生產(VA7)、開發 |
-| 資料檢視 | 當您搭配使用AI助理與Customer Journey Analytics時，資料檢視設定可協助Data Insights Agent瞭解： <ul><li>要查詢的資料集</li><li>有哪些可用的資料元件</li><li>如何建構有關您資料的回應</li><li>要在Analysis Workspace中建立哪些視覺效果</li></ul> |
+| 資料檢視 | 當您搭配使用AI助理與Customer Journey Analytics時，資料檢視設定可協助Data Insights Agent瞭解： <ul><li>要查詢的資料集</li><li>有哪些可用的資料元件</li><li>如何建構有關您資料的回應</li><li>要在Analysis Workspace中建立哪些視覺效果</li></ul> | |
 
 ![可設定資訊來源的[回答]面板。](./images/ai-assistant/inputs/answer-from.png)
 
