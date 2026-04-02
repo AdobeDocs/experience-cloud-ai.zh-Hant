@@ -1,9 +1,9 @@
 ---
 title: Adobe Marketing Agent for Microsoft 365 Copilot
 description: 瞭解如何使用Adobe Marketing Agent for Microsoft 365 Copilot。
-source-git-commit: 5cf5e42c727cd5e48b1b817e150fb9862fc80c82
+source-git-commit: c3cb327bb7625ee81f784a1fad740b7b4cbdfb71
 workflow-type: tm+mt
-source-wordcount: '1793'
+source-wordcount: '1843'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 ## 為您的組織啟用代理程式 {#enable-the-agent-for-your-organization}
 
-只有在[!DNL Microsoft 365]租使用者中提供Adobe Marketing Agent後，一般使用者才能使用。**請與您的[!DNL Microsoft 365] Copilot管理員** （或貴組織中Copilot代理程式的同等管理員）合作，以啟用存取權並根據貴組織的需求指派代理程式。
+只有在[!DNL Microsoft 365]租使用者中提供Adobe Marketing Agent後，一般使用者才能使用。 **與您的[!DNL Microsoft 365] Copilot系統管理員** （或貴組織中Copilot代理程式的同等系統管理員）合作，以啟用存取許可權並根據貴組織的需求指派代理程式。
 
 管理員設定後的典型結果包括：
 
@@ -122,6 +122,10 @@ Adobe Marketing Agent所依賴的控制和治理與Experience Platform和[!DNL M
 **支援的語言和範圍**
 
 初始版本提供英語體驗。 功能僅限於唯讀深入分析；代理程式不會建立或更新行銷資產或設定。
+
+>[!IMPORTANT]
+>
+>Adobe Marketing Agent會根據提交的提示叫用不同的Adobe代理程式和作業。 這個被叫用的基礎Adobe代理程式會利用[Adobe Experience Platform代理程式工作和AI積分消耗](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)頁面中指示的AI積分。
 
 ## 附錄
 

@@ -1,10 +1,10 @@
 ---
 title: Experience Cloud 應用程式中的 AI
 description: 了解 Experience Cloud 應用程式如何使用生成式 AI (GenAI)、AI 助理和代理式 AI。
-source-git-commit: 73d63e310783310d0e6fb3d696ded7d4edb5bede
+source-git-commit: c3cb327bb7625ee81f784a1fad740b7b4cbdfb71
 workflow-type: tm+mt
-source-wordcount: '902'
-ht-degree: 16%
+source-wordcount: '846'
+ht-degree: 17%
 
 ---
 
@@ -78,15 +78,17 @@ Journey Analyze代理程式可讓Adobe Journey Optimizer使用者：
 
 如需詳細資訊，請參閱[產品支援代理程式檔案](./agents/product-support.md)。
 
-#### [!DNL Microsoft 365 Copilot]的Adobe Marketing Agent
+<!--
+#### Adobe Marketing Agent for [!DNL Microsoft 365 Copilot]
 
-使用適用於[!DNL Microsoft 365 Copilot]的Adobe Marketing Agent，在[!DNL Teams]、[!DNL Word]、[!DNL Powerpoint]和[!DNL Excel]等[!DNL Microsoft 365]個應用程式中擷取Experience Platform的行銷深入分析。 使用此代理程式，您可以：
+Use the Adobe Marketing Agent for [!DNL Microsoft 365 Copilot] to retrieve marketing insights from Experience Platform in [!DNL Microsoft 365] apps like [!DNL Teams], [!DNL Word], [!DNL Powerpoint], and [!DNL Excel]. With this agent, you can:
 
-- 做出更快、資料導向的行銷決策。
-- 減少在工具之間切換所花費的時間。
-- 簡化存取跨團隊的對象和歷程深入分析。
+- Make faster, data-driven marketing decisions.
+- Reduce time spent switching between tools.
+- Simplify access to audience and journey insights across teams.
 
-如需詳細資訊，請參閱[Adobe Marketing Agent檔案](./agents/ama-ms.md)。
+Read the [Adobe Marketing Agent documentation](./agents/ama-ms.md) for more information.
+-->
 
 ## 快速入門
 
