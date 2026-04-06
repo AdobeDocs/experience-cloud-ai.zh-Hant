@@ -5,7 +5,7 @@ user-guide-description: 了解如何使用 AI 助理來加快 Adobe Experience P
 description: 了解關於 Experience Cloud 中的 AI 助理。 使用 Experience Cloud 中的 AI 來增加您的產品知識及獲得運作洞察。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 71dbd210086c00e566a8bbf00552db45cc9e61f4
+source-git-commit: 707fc108185d37c122a297e3ee1ebd06b41d053c
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 62%
@@ -31,5 +31,5 @@ ht-degree: 62%
    - [Adobe Marketing Agent for Microsoft 365 Copilot](./agents/ama-ms.md)
    - [代理程式試用版](./agents/trial.md)
    - 資料工程 {#data-engineering}
-      - [Data Engineering Agent](./agents/data-engineering/overview.md)
+      - {hide-from-toc}[Data Engineering Agent](./agents/data-engineering/overview.md)
 
