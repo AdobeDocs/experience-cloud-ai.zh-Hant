@@ -70,7 +70,7 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
 
    1. 選取&#x200B;**[!UICONTROL 儲存]**&#x200B;以儲存許可權。
 
-  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control#access-control)。
+  如需存取控制的詳細資訊，請參閱[存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control#access-control)。
 
 * **資料檢視存取**：必須為Data Insights Agent啟用資料檢視。
 
@@ -78,7 +78,7 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
   >
   >啟用資料檢視時，請考量下列事項：
   >* 每個IMS組織最多可以啟用50個資料檢視。 如果您在指定組織的所有產品設定檔中啟用超過50個資料檢視，Data Insights Agent將使用50個最常用的資料檢視。
-  >  您可以在資料檢視[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
+  >  您可以在資料檢視[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
   >* Data Insights Agent可在您啟用資料檢視的同一天，參照包含的資料檢視。
 
   若要啟用Data Insights Agent的資料檢視：
@@ -176,7 +176,7 @@ Adobe Experience Platform Agent Orchestrator可讓您在多個Adobe Experience C
 
 Agent Orchestrator會解譯您的請求、決定需要哪些專業代理程式，並協調他們提供正確的回應。 它可追蹤多圈互動中的內容，因此您可以自然地在先前的查詢上建置。
 
-如需詳細資訊，請參閱[Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html)。
+如需詳細資訊，請參閱[Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/tw/products/experience-platform/agent-orchestrator.html)。
 
 ## 範例資料視覺效果提示
 
@@ -266,7 +266,7 @@ Following the thumbs up or thumbs down selection, please make a selection for th
 
 >[!MORELIKETHIS]
 >
->[元件設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[資料字典](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[核准計算量度](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[共用區段](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share)
+>[元件設定](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
+>[資料字典](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
+>[核准計算量度](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
+>[共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
