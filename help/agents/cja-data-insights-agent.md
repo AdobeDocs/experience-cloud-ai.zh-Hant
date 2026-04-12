@@ -78,7 +78,7 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
   >
   >啟用資料檢視時，請考量下列事項：
   >* 每個IMS組織最多可以啟用50個資料檢視。 如果您在指定組織的所有產品設定檔中啟用超過50個資料檢視，Data Insights Agent將使用50個最常用的資料檢視。
-  >  您可以在資料檢視](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的[資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
+  >  您可以在資料檢視[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
   >* Data Insights Agent可在您啟用資料檢視的同一天，參照包含的資料檢視。
 
   若要啟用Data Insights Agent的資料檢視：
