@@ -27,7 +27,7 @@ ht-degree: 1%
 
 Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Adobe Experience Platform Agent Orchestrator Promotion授權或Experience Platform Agents AI Credits授權的客戶不符合試用資格。
 
-符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
+符合資格的客戶可收到最多10,000個AI信用額的初始單次權益，以用於[AI信用額衝減表格](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)中列出的任何工作組合(視您目前的Experience Cloud應用程式授權而定)。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 >[!IMPORTANT]
 >
@@ -65,7 +65,7 @@ Adobe Experience Platform Agents試用版可讓符合資格的客戶使用特定
 
 ### 我獲得了多少AI積分，以及當使用這些AI積分時會發生什麼事？
 
-合格客戶最多可收到10,000個試用版AI積分，這些積分會作為代理程式執行工作來使用。 請注意，這些AI點數僅存在於試用體驗期間，如果您在使用完整的10,000個AI點數之前授權其他AI點數，則不會延續。 如需有關AI信用消耗的詳細資訊，請閱讀[代理程式工作和AI信用消耗指南](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)。
+合格客戶最多可收到10,000個試用版AI積分，這些積分會作為代理程式執行工作來使用。 請注意，這些AI點數僅存在於試用體驗期間，如果您在使用完整的10,000個AI點數之前授權其他AI點數，則不會延續。 如需有關AI信用消耗的詳細資訊，請閱讀[代理程式工作和AI信用消耗指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)。
 
 ### 這要花多少錢嗎？
 

@@ -125,7 +125,7 @@ Adobe Marketing Agent所依賴的控制和治理與Experience Platform和[!DNL M
 
 >[!IMPORTANT]
 >
->Adobe Marketing Agent會根據提交的提示叫用不同的Adobe代理程式和作業。 這個被叫用的基礎Adobe代理程式會利用[Adobe Experience Platform代理程式工作和AI積分消耗](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption)頁面中指示的AI積分。
+>Adobe Marketing Agent會根據提交的提示叫用不同的Adobe代理程式和作業。 這個被叫用的基礎Adobe代理程式會利用[Adobe Experience Platform代理程式工作和AI積分消耗](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)頁面中指示的AI積分。
 
 ## 附錄
 
