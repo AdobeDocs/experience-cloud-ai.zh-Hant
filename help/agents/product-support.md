@@ -1,10 +1,14 @@
 ---
 title: 產品支援代理
 description: 了解如何使用 AI 助理中的產品支援代理人，簡化疑難排解和客戶支援服務單歸檔流程。
-source-git-commit: 57e123e7fed24c26403adbc637814ca6a9ccf68e
+TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ---MdK7JzOKF4EzJra3mZjNhpwZ-o
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: dd7883d8eccab3b0f006d55a850248e1c347d7e7
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 5%
+source-wordcount: 365
+ht-degree: 100%
 
 ---
 
@@ -57,5 +61,5 @@ ht-degree: 5%
 
 如需詳細資訊，請觀看以下影片，瞭解如何使用產品支援代理程式進行順暢的疑難排解，而不需要離開您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443194?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443183?learn=on)
 

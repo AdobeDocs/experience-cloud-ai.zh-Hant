@@ -4,19 +4,24 @@ description: Journey Agent全方位指南，可讓使用者使用Journey Optimiz
 solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
-source-git-commit: aba0b2f7f819f762c336c4dfeb952326a0814800
+TQID: https://experienceleague.adobe.com/7Bamc-q4rDOB9i0oxwixdmtdU8lrx3btpvMfAsjGnig
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: baecb07f-ce89-4ebb-9cd9-0f7c053f944fid: d0a62d3c-b79e-47e4-929e-40ef3cffa037id: d556b755-390a-43f0-be32-a08cf6236126id: d998adac-2f81-400b-a669-d07bb196e4ebid: df64005d-8f9a-422e-ba4d-c6f6dc3454b4id: fe338112-e2ce-4876-8989-fc4d497613f1
+subfeature_v2: id: b15c7c2e-788c-4eb7-86a8-390565b0d2c9id: b32bb433-f8c6-4931-8e52-e657230a3bf2id: b3a93754-a8b8-46eb-9421-7eccaeeb3dffid: fa683eda-48de-4558-af32-2673edcd44fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: dd7883d8eccab3b0f006d55a850248e1c347d7e7
 workflow-type: tm+mt
-source-wordcount: '2608'
+source-wordcount: 2655
 ht-degree: 14%
 
 ---
-
 
 # Journey Agent：概觀和使用指南
 
 ## Adobe Journey Optimizer中的Journey Agent簡介
 
-Journey Agent可讓Journey Optimizer使用者使用自然語言介面建立、分析和最佳化行銷歷程。 藉助 Journey 代理，從業人員可以快速建置歷程、偵測並解決排程或客群衝突情形、分析績效和流失點，以及確認績效最佳的歷程以供未來的行銷活動複製使用。它讓從業人員能夠進行資料導向式決策、改善客戶參與度並簡化歷程協調。
+Journey Agent可讓Journey Optimizer使用者使用自然語言介面建立、分析和最佳化行銷歷程。 藉助 Journey 代理，從業人員可以快速建置歷程、偵測並解決排程或客群衝突情形、分析績效和流失點，以及確認績效最佳的歷程以供未來的行銷活動複製使用。 它讓從業人員能夠進行資料導向式決策、改善客戶參與度並簡化歷程協調。
 
 Journey Agent包含三個要完成的主要工作：
 
@@ -94,33 +99,33 @@ Journey Create支援下列功能：
 
 - **進階歷程分析**
 - **即時歷程修改**
-- **跨歷程協調**
-- **A/B測試組態**
-- **複雜的資料轉換**
+- **Cross-journey orchestration**
+- **A/B testing configuration**
+- **Complex data transformations**
 
 ## 範例提示
 
-### 建立歷程的常見提示
+### Common prompts for journey creation
 
-以下是使用者可用來建立歷程的重要提示範例。
+Here are examples of valuable prompts users can leverage to create journeys.
 
-### 事件觸發的歷程提示
+### Event-triggered journey prompts
 
-**商店造訪歷程：**
+**Store visit journey:**
 
-「建立歷程，從使用者進入我的商店位置時開始。 傳送推播通知以歡迎使用者存取存放區。 請等待2天，然後檢視使用者是否有有效的電子郵件地址。 如果使用者擁有有效的電子郵件地址，請傳送電子郵件調查以詢問其商店體驗。 如果使用者沒有有效的電子郵件地址，請傳送推播通知以提示進行註冊。」
+&quot;Create a journey that starts when a user enters my store location. Send a push notification to welcome users to the store. Wait 2 days and check to see if the user has a valid email address. If the user has a valid email address, send an email survey to ask about their store experience. If the user does not have a valid email address, send a push notification to prompt for registration.&quot;
 
-**購買後歷程：**
+**Post-purchase journey:**
 
-「建立客戶線上購買時開始的歷程。 傳送推播通知以感謝他們的購買。 接下來，檢查他們是否為忠誠會員。 如果使用者是忠誠度獎勵會員，請傳送第二個具有10%折扣代碼的推播通知。 如果使用者不是忠誠獎勵成員，請傳送推播邀請他們註冊忠誠計畫。 請等待2天，然後傳送後續推播訊息，其中包含有關其購買體驗的調查。」
+&quot;Create a journey that starts when a customer makes a purchase online. Send a push notification to thank them for their purchase. Next, check to see if they are loyalty members. If the user is a loyalty rewards member, send a second push notification with a 10% discount code. If the user is not a loyalty rewards member, send a push inviting them to sign up for the loyalty program. Wait 2 days and send a follow-up push with a survey about their purchase experience.&quot;
 
-**事件型促銷活動：**
+**Event-based promotion:**
 
-「建立遊戲分數達到50時觸發的歷程。 傳送SMS訊息給忠誠獎勵會員，稱他們有資格從合作夥伴贊助者處免費分得披薩。」
+&quot;Create a journey triggered when the game score reaches 50. Send an SMS message to loyalty reward members saying that they are eligible for a free slice of pizza from the partner sponsor.&quot;
 
-### 對象目標歷程提示
+### Audience-targeted journey prompts
 
-**季節性行銷活動：**
+**Seasonal campaign:**
 
 「我想建立以日間徒步旅行者受眾為目標的歷程。 我想要傳送電子郵件，提醒此對象我即將到來的假期銷售，其中包括各種遠足必需品。 請在傳送第一封電子郵件後等待3天，然後傳送第二封電子郵件（附有15%的優惠券且免運費）。 等候1週，然後傳送第3封電子郵件訊息，顯示我們的新睡袋和帳篷系列。 排程歷程於12/20開始。」
 
@@ -248,7 +253,7 @@ Journey Create支援下列功能：
 
 Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析和最佳化歷程。 透過Journey Agent，從業人員可以快速識別並解決排程和/或對象衝突、偵測歷程中的使用者放棄點，並提供見解或建議。 此代理讓從業人員能夠做出資料驅動的決策、提高客戶參與度，及簡化歷程協調流程。
 
-在此[總覽](https://experienceleague.adobe.com/zh-hant/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
+在此[總覽](https://experienceleague.adobe.com/en/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
 
 >[!AVAILABILITY]
 >
@@ -380,7 +385,7 @@ Journey Analyze支援下列功能：
 
 若要讓Journey Analytics獲得最大成效，請遵循下列最佳實務：
 
-1. **具體**：使用清楚且簡潔的提示獲得指定目標的洞察。例如，與其問「我的歷程為何？」，改為指定「列出上個月建立的所有歷程」。
+1. **具體**：使用清楚且簡潔的提示獲得指定目標的洞察。 例如，與其問「我的歷程為何？」，改為指定「列出上個月建立的所有歷程」。
 1. **結合洞察**：整合 Audience 代理和 Data Insights 代理的洞察，掌握歷程的整體績效。
 1. **反覆改善**：使用流失分析和重疊分析來反覆改善歷程設計與排程。
 
