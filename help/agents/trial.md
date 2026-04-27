@@ -38,7 +38,7 @@ The following video is intended to support your understanding of the Adobe Exper
 
 Adobe will determine your eligibility for the trial at its sole discretion. Customers who currently have or previously had an Adobe Experience Platform Agent Orchestrator Promotion license or an Experience Platform Agents AI Credits license are not eligible for the trial.
 
-Eligible customers receive an initial one-time entitlement of up to 10,000 AI Credits to use for any combination of Jobs (depending on your existing license(s) to Experience Cloud applications) listed in the [AI Credit Consumption Table](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption). You can track your AI Credits using the license usage dashboard in the Adobe Experience Platform UI. For more information, read the [license usage dashboard documentation](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage).
+Eligible customers receive an initial one-time entitlement of up to 10,000 AI Credits to use for any combination of Jobs (depending on your existing license(s) to Experience Cloud applications) listed in the [AI Credit Consumption Table](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption). You can track your AI Credits using the license usage dashboard in the Adobe Experience Platform UI. For more information, read the [license usage dashboard documentation](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage).
 
 >[!IMPORTANT]
 >
@@ -84,7 +84,7 @@ The trial does not require any additional purchase. 付費方案沒有自動轉�
 
 ### 誰能看到使用情形以及如何檢視？
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 

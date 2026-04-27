@@ -89,7 +89,7 @@ Using Data Insights Agent to answer data-centric questions in Analysis Workspace
 
    1. Select **[!UICONTROL Save]** to save the permissions.
 
-  For additional information about access control, see [Access control](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/access-control#access-control).
+  For additional information about access control, see [Access control](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control#access-control).
 
 * **Data view access**: Data views must be enabled for Data Insights Agent.
 
@@ -97,7 +97,7 @@ Using Data Insights Agent to answer data-centric questions in Analysis Workspace
   >
   >Consider the following when enabling data views:
   >* You can enable a maximum of 50 data views per IMS organization. If you enable more than 50 data views across all product profiles for a given organization, the Data Insights Agent will use the 50 most-used data views.
-  >  You can use the [info on the Data Insights Agent column in Data views](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views) to view the number of data views that are enabled for Data Insights Agent in your IMS organization.
+  >  You can use the [info on the Data Insights Agent column in Data views](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views) to view the number of data views that are enabled for Data Insights Agent in your IMS organization.
   >* The Data Insights Agent can reference the included data views sometime during the same day that you enable them.
 
   To enable data views for Data Insights Agent:
@@ -108,7 +108,7 @@ Using Data Insights Agent to answer data-centric questions in Analysis Workspace
 
       ![Enable data views for Data Insights Agent](/help/agents/images/cja-agent/data-view-enable-dia.png)
 
-      For more information about enabling data views for Data Insights Agent, see the [AI Settings for a data view](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/create-dataview#ai-settings/help/data-views/create-dataview.md#ai-settings).
+      For more information about enabling data views for Data Insights Agent, see the [AI Settings for a data view](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/create-dataview#ai-settings/help/data-views/create-dataview.md#ai-settings).
 
   To view the number of data views that are enabled for Data Insights Agent in your IMS organization:
 
@@ -195,7 +195,7 @@ Adobe Experience Platform Agent Orchestrator可讓您在多個Adobe Experience C
 
 Agent Orchestrator會解譯您的請求、決定需要哪些專業代理程式，並協調他們提供正確的回應。 它可追蹤多圈互動中的內容，因此您可以自然地在先前的查詢上建置。
 
-如需詳細資訊，請參閱[Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/products/experience-platform/agent-orchestrator.html)。
+如需詳細資訊，請參閱[Adobe Experience Platform Agent Orchestrator](https://business.adobe.com/tw/products/experience-platform/agent-orchestrator.html)。
 
 ## 範例資料視覺效果提示
 
@@ -285,7 +285,7 @@ Below are best practices for your Customer Journey Analytics configuration (data
 
 >[!MORELIKETHIS]
 >
->[元件設定](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[資料字典](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[核准計算量度](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[共用區段](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-share)
+>[元件設定](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
+>[資料字典](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
+>[核准計算量度](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
+>[共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
