@@ -1,9 +1,19 @@
 ---
 title: AI 助理使用者介面指南
 description: 了解如何於使用者介面中存取及使用 AI 助理。
-source-git-commit: ec03f46b5d80558b683f6cd4330f51258b7378a1
+TQID: https://experienceleague.adobe.com/MWhVCqUFt5Qze4mQp-G85OF81Mk1OL4xY8Jygm-B4PI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: dd7883d8eccab3b0f006d55a850248e1c347d7e7
 workflow-type: tm+mt
-source-wordcount: '2162'
+source-wordcount: 2162
 ht-degree: 3%
 
 ---
@@ -22,7 +32,7 @@ ht-degree: 3%
 | 功能範圍 | 您可以使用AI助理（舊版）來取得產品知識和營運見解。 | 您可以使用AI Assistant （新一代）來瞭解產品知識、營運深入分析，以及進階代理技能和多步驟任務執行。 |
 | 平台架構 | AI助理（舊版）並非建置在Agent Orchestrator棧疊上。 | AI Assistant (Next-Gen)由[Adobe Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/zh-hant/docs/experience-cloud-ai/experience-cloud-ai/agents/agent-orchestrator)提供技術支援，可擴充性以及各種功能的進階協調。 |
 | 應用程式涵蓋範圍 | AI助理（舊版）是應用程式專用的實作。 | 您可以使用AI助理（新一代），在所有Adobe Experience Cloud應用程式中提供統一的AI助理體驗。 |
-| 存取與許可權模型 | 應用程式範圍的存取模型會與個別產品邊界對齊。 | 所有使用者都能存取AI Assistant (Next-Gen)和相關聯的Experience Platform代理程式。**附註**： <ul><li>**Adobe Experience Manager**：您的管理員必須授予您透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)存取AI小幫手(Next-Gen)的許可權。</li><li>**Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control?lang=en)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。 |
+| 存取與許可權模型 | 應用程式範圍的存取模型會與個別產品邊界對齊。 | 所有使用者都能存取AI Assistant (Next-Gen)和相關聯的Experience Platform代理程式。 **附註**： <ul><li>**Adobe Experience Manager**：您的管理員必須授予您透過[Adobe Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)存取AI小幫手(Next-Gen)的許可權。</li><li>**Customer Journey Analytics**：您的管理員必須透過[Customer Journey Analytics存取控制](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control?lang=en)授與您存取AI小幫手的許可權。 這可讓您詢問產品知識和資料見解問題。 |
 
 AI Assistant是一款智慧型交談、創造性的AI工具，可大幅提升生產力並重新定義Adobe Experience Platform應用程式中的工作。 您可以使用AI助理來存取Adobe Experience Platform代理程式和其他AI功能。
 
@@ -214,41 +224,41 @@ AI Assistant接著會查詢其知識庫並計算答案。 幾分鐘後，AI Assi
 
 ![可設定資訊來源的[回答]面板。](./images/ai-assistant/inputs/answer-from.png)
 
-### 資料和物件自動完成
+### Data and object autocomplete
 
-您可以使用自動完成函式來接收沙箱中存在之資料物件的清單。 若要使用自動完成，請在查詢中輸入加號圖示(+)。 或者，您也可以選取文字輸入方塊底部的加號圖示(+)。 隨即顯示一個視窗，其中包含沙箱中建議的資料物件清單。
+You can use the autocomplete function to receive a list of data objects that exist in your sandbox. To use autocomplete, input the plus icon (+) in your query. As an alternative, you can also select the plus icon (+) located at the bottom of the text input box. A window appears with a list of recommended data objects from your sandbox.
 
-![已選取資料與物件自動完成按鈕。](./images/ai-assistant/autocomplete/autocomplete.png)
+![The data and object autocomplete button selected.](./images/ai-assistant/autocomplete/autocomplete.png)
 
-### 驗證回應
+### Verify responses
 
-您可透過多種方式驗證AI助理的回應。 選取&#x200B;**[!UICONTROL 與物件相符的查詢辭彙]**&#x200B;以檢視查詢中與組織中特定物件相符的辭彙摘要。
+There are a number of ways that you can verify responses from AI Assistant. Select **[!UICONTROL Query Term Matched to Objects]** to view a summary of the terms in your query that were matched to specific objects in your organization.
 
-![查詢字詞與您的回應相符。](./images/ai-assistant/autocomplete/query-terms.png)
+![The query terms matched with your response.](./images/ai-assistant/autocomplete/query-terms.png)
 
-選取&#x200B;**[!UICONTROL 以下是我取得結果的方式]**，以檢視AI助理如何取得答案的詳細逐步說明。 此外，您也可以檢視為回答您問題而執行的SQL查詢。 此查詢是唯讀的，不支援用於查詢服務。
+Select **[!UICONTROL Here is how I got the results]** to see a detailed, step-by-step explanation of how AI Assistant arrived at its answer. Additionally, you can also view the SQL query that was executed to answer your question. This query is read-only and is not supported for use in Query Service.
 
-![AI助理上的SQL驗證工具。](./images/ai-assistant/autocomplete/verifications.png)
+![The SQL verification tools on AI Assistant.](./images/ai-assistant/autocomplete/verifications.png)
 
-### 設定資料視覺效果
+### Configure data visualization
 
-您可以使用AI Assistant的資料視覺化功能來更瞭解您的資料。 您也可以指定要在查詢中使用的圖表型別。 例如，提交顯示： **&quot;依產品名稱顯示上個月利潤（長條圖）&quot;**&#x200B;的查詢，以接收依產品名稱組織的上個月利潤長條圖。
+You can use AI Assistant&#39;s data visualization capabilities to gain a better understanding of your data. You can also specify the type of graph that you want to use in your query. For example, submit a query that says: **&quot;Show profit by product name for last month (bar)&quot;** to receive a bar graph of profit in the last month, organized by product name.
 
-![在AI小幫手上顯示的橫條圖](./images/ai-assistant/visualization/graph.png)
+![A bar graph displayed on AI Assistant](./images/ai-assistant/visualization/graph.png)
 
-接著，選取&#x200B;**[!UICONTROL 屬性]**&#x200B;以變更圖表型別，並設定X軸與Y軸的值。
+Next, select **[!UICONTROL Properties]** to change your graph type and configure values for your X and Y axis.
 
-AI Assistant支援數種圖表型別用於資料視覺效果。 您可以將滑鼠游標停留在資料上，與所有型別的圖表互動。
+AI Assistant supports several graph types for data visualization. You can interact with all types of graph by hovering over the data.
 
 >[!BEGINTABS]
 
 >[!TAB Line]
 
-若要檢視線圖，請選取&#x200B;**[!UICONTROL 屬性]**，然後選取&#x200B;**[!UICONTROL 線]**。
+To view a line graph, select **[!UICONTROL Properties]** and then select **[!UICONTROL Line]**.
 
-![AI助理上的線圖。](./images/ai-assistant/visualization/line.png)
+![A line graph on AI Assistant.](./images/ai-assistant/visualization/line.png)
 
->[!TAB 區域]
+>[!TAB Area]
 
 若要檢視區域圖，請選取&#x200B;**[!UICONTROL 屬性]**，然後選取&#x200B;**[!UICONTROL 區域]**。
 
