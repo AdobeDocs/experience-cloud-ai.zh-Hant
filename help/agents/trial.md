@@ -27,7 +27,7 @@ ht-degree: 5%
 
 The following video is intended to support your understanding of the Adobe Experience Platform Agents trial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480228?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480239?captions=chi_hant&learn=on)
 
 ## What is available with the trial
 
