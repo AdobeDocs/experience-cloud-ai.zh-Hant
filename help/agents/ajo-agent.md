@@ -29,14 +29,19 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: dd7883d8eccab3b0f006d55a850248e1c347d7e7
+source-git-commit: d209365776b2467f5230fa2cc9a3a4534eb57328
 workflow-type: tm+mt
-source-wordcount: 2655
+source-wordcount: 2687
 ht-degree: 14%
 
 ---
 
+
 # Journey Agent：概觀和使用指南
+
+>[!AVAILABILITY]
+>
+>屬於Journey Agent Explorer計劃一部分的客戶可以使用Agent Orchestrator建立技能和內容產生技能。 如需詳細資訊，請聯絡Adobe客戶服務。
 
 ## Adobe Journey Optimizer中的Journey Agent簡介
 
@@ -56,7 +61,7 @@ Journey Agent包含三個要完成的主要工作：
 
 >[!AVAILABILITY]
 >
->所有有權存取AI Assistant的客戶皆可使用Journey Create。 但是，您需要以下許可權才能完全使用「歷程建立」功能：
+>Agent Orchestrator Explorer程式中的客戶可使用Journey Create 。 您也將需要以下許可權才能完全使用Journey Create功能：
 >
 >**管理歷程**：此許可權可讓您直接在AI助理中建立新的歷程。
 >
@@ -118,33 +123,33 @@ Journey Create支援下列功能：
 
 - **進階歷程分析**
 - **即時歷程修改**
-- **Cross-journey orchestration**
-- **A/B testing configuration**
-- **Complex data transformations**
+- **跨歷程協調**
+- **A/B測試組態**
+- **複雜的資料轉換**
 
 ## 範例提示
 
-### Common prompts for journey creation
+### 建立歷程的常見提示
 
-Here are examples of valuable prompts users can leverage to create journeys.
+以下是使用者可用來建立歷程的重要提示範例。
 
-### Event-triggered journey prompts
+### 事件觸發的歷程提示
 
-**Store visit journey:**
+**商店造訪歷程：**
 
-&quot;Create a journey that starts when a user enters my store location. Send a push notification to welcome users to the store. Wait 2 days and check to see if the user has a valid email address. If the user has a valid email address, send an email survey to ask about their store experience. If the user does not have a valid email address, send a push notification to prompt for registration.&quot;
+「建立歷程，從使用者進入我的商店位置時開始。 傳送推播通知以歡迎使用者存取存放區。 請等待2天，然後檢視使用者是否有有效的電子郵件地址。 如果使用者擁有有效的電子郵件地址，請傳送電子郵件調查以詢問其商店體驗。 如果使用者沒有有效的電子郵件地址，請傳送推播通知以提示進行註冊。」
 
-**Post-purchase journey:**
+**購買後歷程：**
 
-&quot;Create a journey that starts when a customer makes a purchase online. Send a push notification to thank them for their purchase. Next, check to see if they are loyalty members. If the user is a loyalty rewards member, send a second push notification with a 10% discount code. If the user is not a loyalty rewards member, send a push inviting them to sign up for the loyalty program. Wait 2 days and send a follow-up push with a survey about their purchase experience.&quot;
+「建立客戶線上購買時開始的歷程。 傳送推播通知以感謝他們的購買。 接下來，檢查他們是否為忠誠會員。 如果使用者是忠誠度獎勵會員，請傳送第二個具有10%折扣代碼的推播通知。 如果使用者不是忠誠獎勵成員，請傳送推播邀請他們註冊忠誠計畫。 請等待2天，然後傳送後續推播訊息，其中包含有關其購買體驗的調查。」
 
-**Event-based promotion:**
+**事件型促銷活動：**
 
-&quot;Create a journey triggered when the game score reaches 50. Send an SMS message to loyalty reward members saying that they are eligible for a free slice of pizza from the partner sponsor.&quot;
+「建立遊戲分數達到50時觸發的歷程。 傳送SMS訊息給忠誠獎勵會員，稱他們有資格從合作夥伴贊助者處免費分得披薩。」
 
-### Audience-targeted journey prompts
+### 對象目標歷程提示
 
-**Seasonal campaign:**
+**季節性行銷活動：**
 
 「我想建立以日間徒步旅行者受眾為目標的歷程。 我想要傳送電子郵件，提醒此對象我即將到來的假期銷售，其中包括各種遠足必需品。 請在傳送第一封電子郵件後等待3天，然後傳送第二封電子郵件（附有15%的優惠券且免運費）。 等候1週，然後傳送第3封電子郵件訊息，顯示我們的新睡袋和帳篷系列。 排程歷程於12/20開始。」
 
