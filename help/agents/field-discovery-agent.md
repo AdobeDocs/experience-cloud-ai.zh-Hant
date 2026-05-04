@@ -101,7 +101,7 @@ ht-degree: 0%
 - **[!UICONTROL 關聯性]** — 指派給欄位的關聯性標籤（**[!UICONTROL 高度相關]**、**[!UICONTROL 適度相關]**&#x200B;或&#x200B;**[!UICONTROL 相關]**）
 - **[!UICONTROL 使用內容]** — 顯示欄位在您資料生態系統中的顯示位置的連結。 選取&#x200B;**[!UICONTROL 對象]**、**[!UICONTROL 資料集]**、**[!UICONTROL 目的地]**&#x200B;或&#x200B;**[!UICONTROL 結構描述]**，以開啟顯示使用欄位位置的側邊面板。
 
-![ AI助理中的[已識別的欄位]面板顯示具有[關聯性]標籤和[使用內容]連結的候選欄位列。](./images/field-discovery/fields-identified-panel-in-chat.png)
+![&#x200B; AI助理中的[已識別的欄位]面板顯示具有[關聯性]標籤和[使用內容]連結的候選欄位列。](./images/field-discovery/fields-identified-panel-in-chat.png)
 
 **[!UICONTROL 已說明的結果]**&#x200B;區段會顯示在&#x200B;**[!UICONTROL 已識別欄位]**&#x200B;表格下方，並提供額外的欄位層級內容，包括每個結果的說明與支援詳細資料。 如需導覽AI助理介面的指南，請參閱[AI助理使用者介面指南](../ai-assistant/ai-assistant-ui.md)。
 
@@ -118,7 +118,7 @@ ht-degree: 0%
 3. 檢閱&#x200B;**[!UICONTROL 識別欄位]**&#x200B;面板中的排名結果。 每一列都包含關聯性標籤和&#x200B;**[!UICONTROL 欄位名稱]**&#x200B;欄位中的XDM欄位路徑。
 4. 在&#x200B;**[!UICONTROL 使用方式內容]**&#x200B;欄中選取&#x200B;**[!UICONTROL 對象]**、**[!UICONTROL 資料集]**、**[!UICONTROL 目的地]**&#x200B;或&#x200B;**[!UICONTROL 結構描述]**，以開啟顯示欄位使用位置的側邊面板。 如需其他欄位層級內容，請參閱結果表格下方的&#x200B;**[!UICONTROL 說明結果]**&#x200B;區段。
 
-   ![ AI助理中的側面板，顯示選取欄位的「使用內容」，包括對象、資料集、目的地和結構描述關聯。](./images/field-discovery/fields-identified-panel-expanded.png)
+   ![&#x200B; AI助理中的側面板，顯示選取欄位的「使用內容」，包括對象、資料集、目的地和結構描述關聯。](./images/field-discovery/fields-identified-panel-expanded.png)
 
 5. 根據您的使用案例，在下游工具（例如區段產生器、查詢服務或資料擷取工作流程）中使用&#x200B;**[!UICONTROL 欄位名稱]**&#x200B;路徑。 欄位探索代理程式提供欄位參考，但不會將其插入其他工具。
 
