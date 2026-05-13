@@ -1,6 +1,10 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud,Experience Platform,Real-Time Customer Data Platform
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
 product: experience cloud
 landing-page-name: AI
 landing-page-breadcrumb-title: AI Documentation
@@ -8,17 +12,17 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-cloud-ai.zh-Hant
 index: true
-source-git-commit: dae54c19020a07c35fcda244a31bbbee1c4aafc9
+source-git-commit: 6ed016f7fa7202348da0bb545929f338981a2e60
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 74%
 
 ---
 
 
-# 內部使用的中繼資料
+# 僅限內部使用的中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將這些資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 如果您想變更任何使用者指南的 metadata.md 內容，請在任何 TOC.md 檔案中進行變更。
 
-請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**型別**&#x200B;的有效值清單。
+請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)，方便取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**類型**&#x200B;的有效數值清單。
 
