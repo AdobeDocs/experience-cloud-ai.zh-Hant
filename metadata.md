@@ -10,7 +10,7 @@ landing-page-name: AI
 landing-page-breadcrumb-title: AI Documentation
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-cloud-ai.en
+git-repo: https://github.com/AdobeDocs/experience-cloud-ai.zh-Hant
 index: true
 source-git-commit: 6ed016f7fa7202348da0bb545929f338981a2e60
 workflow-type: tm+mt
