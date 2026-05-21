@@ -1,7 +1,10 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud,Experience Platform,Real-Time Customer Data Platform
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
 usetq: true
 product: experience cloud
 landing-page-name: AI
