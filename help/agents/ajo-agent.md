@@ -5,34 +5,15 @@ solution: Journey Optimizer
 product: journey optimizer
 role: Admin,User,Developer,Leader
 TQID: https://experienceleague.adobe.com/7Bamc-q4rDOB9i0oxwixdmtdU8lrx3btpvMfAsjGnig
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: baecb07f-ce89-4ebb-9cd9-0f7c053f944f
-  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
-  - id: d556b755-390a-43f0-be32-a08cf6236126
-  - id: d998adac-2f81-400b-a669-d07bb196e4eb
-  - id: df64005d-8f9a-422e-ba4d-c6f6dc3454b4
-  - id: fe338112-e2ce-4876-8989-fc4d497613f1
-subfeature_v2:
-  - id: b15c7c2e-788c-4eb7-86a8-390565b0d2c9
-  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
-  - id: b3a93754-a8b8-46eb-9421-7eccaeeb3dff
-  - id: fa683eda-48de-4558-af32-2673edcd44fe
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: d209365776b2467f5230fa2cc9a3a4534eb57328
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: baecb07f-ce89-4ebb-9cd9-0f7c053f944fid: d0a62d3c-b79e-47e4-929e-40ef3cffa037id: d556b755-390a-43f0-be32-a08cf6236126id: d998adac-2f81-400b-a669-d07bb196e4ebid: df64005d-8f9a-422e-ba4d-c6f6dc3454b4id: fe338112-e2ce-4876-8989-fc4d497613f1
+subfeature_v2: id: b15c7c2e-788c-4eb7-86a8-390565b0d2c9id: b32bb433-f8c6-4931-8e52-e657230a3bf2id: b3a93754-a8b8-46eb-9421-7eccaeeb3dffid: fa683eda-48de-4558-af32-2673edcd44fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: f68659190b3333b918e6d5d5aaec37d1f9a28d49
 workflow-type: tm+mt
-source-wordcount: 2687
-ht-degree: 14%
+source-wordcount: 3361
+ht-degree: 11%
 
 ---
 
@@ -47,11 +28,17 @@ ht-degree: 14%
 
 Journey Agent可讓Journey Optimizer使用者使用自然語言介面建立、分析和最佳化行銷歷程。 藉助 Journey 代理，從業人員可以快速建置歷程、偵測並解決排程或客群衝突情形、分析績效和流失點，以及確認績效最佳的歷程以供未來的行銷活動複製使用。 它讓從業人員能夠進行資料導向式決策、改善客戶參與度並簡化歷程協調。
 
-Journey Agent包含三個要完成的主要工作：
+Journey Agent包含四個主要待完成的工作：
 
 - **歷程建立**：透過自然語言提示建立及設定行銷歷程
 - **頻道內容建立**：產生、編輯和管理使用AI支援的內容產生之歷程的頻道特定內容（電子郵件、推播、簡訊）
 - **歷程分析**：分析歷程、偵測問題、發掘見解並最佳化客戶參與
+
+此外，**歷程模擬**&#x200B;是Journey Optimizer功能，包含[歷程模擬](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs)，產品內代理程式技能，非對話式，具有三種功能：
+
+- 產生模擬使用者
+- 產生事件值
+- 快速模擬
 
 ## 歷程建立：使用案例、代理商技能和使用手冊
 
@@ -277,7 +264,7 @@ Journey Create支援下列功能：
 
 Journey Agent可讓Journey Optimizer使用者使用自然語言介面來分析和最佳化歷程。 透過Journey Agent，從業人員可以快速識別並解決排程和/或對象衝突、偵測歷程中的使用者放棄點，並提供見解或建議。 此代理讓從業人員能夠做出資料驅動的決策、提高客戶參與度，及簡化歷程協調流程。
 
-在此[總覽](https://experienceleague.adobe.com/zh-hant/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
+在此[總覽](https://experienceleague.adobe.com/en/slides/journey-agent-overview)中瞭解更多資訊，並探索代理程式。
 
 >[!AVAILABILITY]
 >
@@ -419,8 +406,82 @@ Journey Analyze支援下列功能：
 - **定期監視**：安排定期檢查歷程績效，以發現趨勢和異常。
 - **細分最佳化**：確保客群細分維持平衡，避免疲勞並實現最高參與度。
 
-## 投影片與簡報
+## 歷程模擬：使用案例、代理商技能和使用手冊
 
->[!NOTE]
->
->這裡將提供Journey Agent的投影片和簡報資料。 請稍後回來檢視更新。
+## 概觀
+
+>[!BEGINSHADEBOX]
+
+歷程模擬可供所有Journey Optimizer客戶使用。 Journey Simulate （Journey Simulation內的產品代理技能）可供屬於Agent Orchestrator Explorer計畫並需要至少下列其中一項許可權的客戶使用：
+
+- **模擬歷程**：從歷程畫布執行模擬工作流程。
+
+- **發佈歷程**：發佈歷程，包括在上線前使用模擬的流程。
+
+- **核准並發佈歷程**：當您的組織使用核准工作流程時，核准並發佈歷程。
+
+若要在&#x200B;**[!UICONTROL 模擬]** （**[!UICONTROL 快速模擬]**，使用AI產生模擬使用者，**[!UICONTROL 產生事件值]**）中使用AI，使用者需要來自&#x200B;**[!UICONTROL AI小幫手]**&#x200B;功能的&#x200B;**[!UICONTROL 產生內容]**&#x200B;許可權。
+
+[深入了解權限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/administration/permissions)。
+
+>[!ENDSHADEBOX]
+
+歷程模擬是Journey Optimizer的一項功能，可讓Journey Optimizer使用者在啟用前安全地測試及驗證行銷歷程。 在歷程模擬中，歷程模擬是產品內的代理技能，而不是對話技能，它直接從歷程畫布自動化和協助測試流程。
+
+Journey Simulate包含三個功能：
+
+- 產生模擬使用者
+- 產生事件值
+- 快速模擬。
+
+它們共同橋接歷程建立與啟動之間的差距，建立對歷程邏輯的信心，並降低啟動後錯誤的風險。
+
+## 使用案例
+
+### 歷程模擬的主要使用案例
+
+Journey Simulate提供三項功能，可於上線前用來縮短測試時間及改善歷程品質：
+
+**正在產生模擬的使用者**
+
+- 根據歷程路徑和所需屬性自動產生模擬使用者。
+- 建立涵蓋歷程中所有分支和條件的模擬使用者，包括執行地址（電子郵件、推播、簡訊）。
+- 隨選更新模擬的使用者屬性以精簡測試案例。
+- 將正確的模擬使用者指派至每個路徑，以確保涵蓋所有歷程分支。
+
+**正在產生事件值**
+
+- 產生歷程中所使用事件的值，以透過特定路徑推動測試執行。
+- 定義在模擬期間觸發所需條件和分支的事件屬性值。
+
+**快速模擬**
+
+- 透過單一互動，針對測試歷程所有路徑所需的所有模擬使用者，開始歷程模擬並觸發測試執行。
+- 以視覺效果呈現模擬使用者如何逐步完成歷程，包括分支路徑和條件式邏輯。
+- 透過逐個節點的詳細周遊來識別哪些模擬使用者流經哪個路徑，以及為什麼。
+- 在Journey Optimizer UI中執行結束時，請檢閱模擬報告，以在啟用之前驗證結果。
+
+## 範圍技能與限制
+
+### **在領域**
+
+歷程模擬功能支援下列功能：
+
+- **模擬的使用者管理**：檢視、編輯和更新模擬的使用者屬性，包括執行位址和個人化資料。
+- **模擬控制**：直接透過歷程模擬產品內體驗來開始和停止歷程模擬。
+- **測試執行**：觸發一或多個模擬使用者的測試執行。
+- **歷程流量視覺效果**：檢視模擬使用者透過歷程節點的逐步周遊，包括分支、分割和使用者狀態。
+- **模擬報告**：在Journey Optimizer UI中的模擬執行結束時，檢視報告。
+- **多重使用者測試**：同時執行並視覺化多個模擬使用者的測試，涵蓋所有歷程分支。
+
+除此之外，「歷程模擬」技能還支援下列功能：
+
+- **模擬的使用者產生**：根據歷程路徑、現有的測試設定檔或指定的屬性，建立模擬的使用者。
+- **事件值產生**：產生並指派事件屬性值，以透過特定歷程路徑推動測試執行。
+- **快速模擬**：執行完整的端對端模擬，只需很少的介入。 此技能會自動產生模擬的使用者、事件值和預先填入的測試設定，然後執行歷程並呈現結果以供檢閱。
+
+### **限制**
+
+模擬可能不會支援測試模式或即時歷程支援的每個活動、管道或整合，而且行為可能會隨著功能成熟而改變。
+
+➡️在Journey Optimizer檔案中進一步瞭解[模擬限制](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/simulate-journey/simulate-journey-gs#limitations)。
