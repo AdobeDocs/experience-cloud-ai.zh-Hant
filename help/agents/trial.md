@@ -38,7 +38,7 @@ ht-degree: 4%
 
 Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Adobe Experience Platform Agent Orchestrator Promotion授權或Experience Platform Agents AI Credits授權的客戶不符合試用資格。
 
-符合資格的客戶會收到最多10,000個AI信用額的初始單次權益，以用於列於[AI信用額衝減表格](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)中的任何工作組合（取決於您對Experience Cloud應用程式的現有授權）。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
+符合資格的客戶會收到最多10,000個AI信用額的初始單次權益，以用於列於[AI信用額衝減表格](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)中的任何工作組合（取決於您對Experience Cloud應用程式的現有授權）。 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 >[!IMPORTANT]
 >
@@ -52,7 +52,7 @@ Adobe將全權決定您是否符合試用資格。 目前擁有或先前擁有Ad
 
 取得存取權後，請導覽至Adobe Experience Cloud首頁以開始使用AI Assistant。 您可以使用[探索提示](../ai-assistant/ai-assistant-ui.md#discovery-prompts)來檢視提示和一般工作流程的建議。 使用此功能來協助您加速使用AI Assistant。 此外，請閱讀[提示程式庫](../ai-assistant/prompt-library.md)，瞭解您可以與不同代理程式搭配使用的各種提示。 如需更完整的資訊，請閱讀[AI助理使用者介面指南](../ai-assistant/ai-assistant-ui.md)。
 
-Agentic AI監控儀表板可讓您清楚瞭解組織內採用和使用Agentic AI的方式。 身為授權使用者，您可以輕鬆追蹤參與、收集意見回饋、監控AI信用使用情況並審查關鍵量度。 利用這些見解發掘最佳化機會，並支援您的治理和採用工作。 若要瞭解更多資訊，請瀏覽[Agentic AI使用監視指南](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring)。
+Agentic AI監控儀表板可讓您清楚瞭解組織內採用和使用Agentic AI的方式。 身為授權使用者，您可以輕鬆追蹤參與、收集意見回饋、監控AI信用使用情況並審查關鍵量度。 利用這些見解發掘最佳化機會，並支援您的治理和採用工作。 若要瞭解更多資訊，請瀏覽[Agentic AI使用監視指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring)。
 
 如需有關可用代理程式的資訊，請閱讀[Agent Orchestrator概觀](agent-orchestrator.md)。
 
@@ -86,9 +86,9 @@ Adobe Experience Platform Agents試用版可讓符合資格的客戶使用特定
 
 ### 誰能看到使用情形以及如何檢視？
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 
-您也可以使用Agentic AI監控儀表板，讓insight瞭解整個組織的Agentic AI採用、參與、意見回饋和AI點數使用情況。 授權的使用者可以使用儀表板來追蹤關鍵量度、識別最佳化機會，以及支援治理和採用計畫。 如需詳細資訊，請閱讀[Agentic AI監視](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring)的指南。
+您也可以使用Agentic AI監控儀表板，讓insight瞭解整個組織的Agentic AI採用、參與、意見回饋和AI點數使用情況。 授權的使用者可以使用儀表板來追蹤關鍵量度、識別最佳化機會，以及支援治理和採用計畫。 如需詳細資訊，請閱讀[Agentic AI監視](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring)的指南。
 
 ### 試用期結束後會發生什麼事？
 
