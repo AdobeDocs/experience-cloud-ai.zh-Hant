@@ -12,7 +12,7 @@ role_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: e385f60b8c55779b636dcc494fced27bc63d1eb3
+source-git-commit: e463f08590d0d44d286e3ce69e57607d35e74489
 workflow-type: tm+mt
 source-wordcount: 1243
 ht-degree: 4%
@@ -88,7 +88,7 @@ Adobe Experience Platform Agents試用版可讓符合資格的客戶使用特定
 
 您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 
-您也可以使用Agentic AI監控儀表板，讓insight瞭解整個組織的Agentic AI採用、參與、意見回饋和AI點數使用情況。 授權的使用者可以使用儀表板來追蹤關鍵量度、識別最佳化機會，以及支援治理和採用計畫。 如需詳細資訊，請閱讀[Agentic AI監視](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring)的指南。
+您也可以使用Agentic AI監控儀表板，讓insight瞭解組織中的Agentic AI採用、參與、意見回饋和AI點數使用情況。 授權的使用者可以使用儀表板來追蹤關鍵量度、識別最佳化機會，以及支援治理和採用計畫。 如需詳細資訊，請閱讀[Agentic AI監視](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring)的指南。
 
 ### 試用期結束後會發生什麼事？
 
