@@ -45,8 +45,8 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
 
 | 功能 | 在範圍中 | 超出範圍 |
 | --- | --- | --- |
-| **視覺效果型別** | <ul><li>折線圖</li><li>多行</li><li>自由格式表格</li><li>長條圖</li><li>環狀圖</li><li>摘要數字</li></ul> | <ul><li>流程</li><li>流失</li><li>同類群組表格</li><li>區域圖、棧疊區域圖</li><li>棧疊長條圖</li><li>項目符號</li><li>組合圖</li><li>直方圖</li><li>橫條圖、棧疊橫條圖</li><li>關鍵量度摘要</li><li>散佈圖</li><li>摘要變更</li><li>文字</li><li>樹狀圖</li><li>文氏圖表</li><li>引導式分析：主動式成長、轉換趨勢、參與、首次使用影響、頻率、Funnel、淨成長、發行影響、保留、時間表、趨勢</li></ul> |
-| **Workspace動作和代理程式功能** | <ul><li>建立和更新視覺效果<p>產生自由表格和相關聯的視覺效果（例如線條、長條圖、環形圖等）。</p><p>例如，*從2月到5月，SKU間的利潤是多少？*</p></li><li>提出後續追蹤問題<p>從任何先前的提示回應內容中的提示。 例如：</p> <ul><li>提示1： *自3月*&#x200B;起的趨勢事件</li><li>提示2： *改為顯示三月到四月的資料*</li></ul> </li><li>超出範圍提示偵測<p>如果您提交超出範圍的提示，例如&#x200B;*匯出此專案*，Data Insights Agent會通知您問題超出範圍。</p></li></ul> | <ul><li>共用</li><li>匯出</li><li>下載</li><li>管理使用者偏好設定</li><li>管理資料檢視</li><li>Analytics儀表板應用程式</li><li>歸因</li><li>內嵌摘要或回應<p>Data Insights Agent無法在聊天邊欄中以使用者提示的摘要回應進行內嵌回應。 範圍外提示的範例為，*提供上次提示的見解摘要*&#x200B;以及&#x200B;*總結線條視覺效果的亮點。*</p></li></ul> |
+| **視覺效果型別** | <ul><li>折線圖</li><li>多行</li><li>自由格式表格</li><li>長條圖</li><li>環形圖</li><li>摘要數字</li></ul> | <ul><li>流量</li><li>流失</li><li>同類群組表格</li><li>區域圖、棧疊區域圖</li><li>棧疊長條圖</li><li>項目符號</li><li>組合圖</li><li>直方圖</li><li>橫條圖、棧疊橫條圖</li><li>關鍵量度摘要</li><li>散佈圖</li><li>摘要變更</li><li>文字</li><li>樹狀圖</li><li>文氏圖表</li><li>引導式分析：主動式成長、轉換趨勢、參與、首次使用影響、頻率、Funnel、淨成長、發行影響、保留、時間表、趨勢</li></ul> |
+| **Workspace動作和代理程式功能** | <ul><li>建立和更新視覺效果<p>產生自由表格和相關聯的視覺效果（例如線條、長條圖、環形圖等）。</p><p>例如，*從2月到5月，SKU間的利潤是多少？*</p></li><li>提出後續追蹤問題<p>從任何先前的提示回應內容中的提示。 例如:</p> <ul><li>提示1： *自3月*&#x200B;起的趨勢事件</li><li>提示2： *改為顯示三月到四月的資料*</li></ul> </li><li>超出範圍提示偵測<p>如果您提交超出範圍的提示，例如&#x200B;*匯出此專案*，Data Insights Agent會通知您問題超出範圍。</p></li></ul> | <ul><li>共用</li><li>匯出</li><li>下載</li><li>管理使用者偏好設定</li><li>管理資料檢視</li><li>Analytics儀表板應用程式</li><li>出處</li><li>內嵌摘要或回應<p>Data Insights Agent無法在聊天邊欄中以使用者提示的摘要回應進行內嵌回應。 範圍外提示的範例為，*提供上次提示的見解摘要*&#x200B;以及&#x200B;*總結線條視覺效果的亮點。*</p></li></ul> |
 | **澄清問題** | 如果您提出的問題，沒有足夠上下文可供Data Insights Agent回答，或問題過於寬泛，Data Insights Agent會以澄清問題或建議的選項來回應。 <p>下列澄清問題為元件相關問題的範例：</p><ul><li>量度： *您指的是哪個「收入」量度？*</li><li>Dimension： *您想要著重下列哪個「地區」？*</li><li>區段： *您要套用哪個「帳戶」區段？*</li><li>日期範圍： *以「上個月」表示，您是指「上個月」還是「過去30天」？*</li></ul><p>以下澄清問題為維度專案相關問題的範例：</p> <ul><li>您是指哪個「商店名稱」？ （例如，商店#5274、商店#2949等）。</li></ul> | 澄清的問題僅限於元件和維度專案。 Data Insights Agent無法釐清資料檢視、視覺效果、資料精細度、比較和範圍等專案。 當澄清無法使用的問題時，代理程式會預設為您最可能要求的內容。 如果它傳回非預期的視覺效果或資料詳細程度，您可以提出後續問題或調整視覺效果和資料。 |
 | **資料可驗證性和正確性** | 檢視產生的自由表格和資料視覺效果，即可確認資料可驗證性和正確性。 <p>例如，如果您要求Data Insights Agent針對上個月&#x200B;*的*&#x200B;趨勢訂單，您可確認已在新產生的面板、資料視覺效果和自由表格中選取正確的量度（「訂單」）和日期範圍（「上個月」）。</p> | Data Insights Agent不會通知您新增了哪些元件或視覺效果。 |
 | **回饋機制** | <ul><li>豎起大拇指</li><li>向下拇指</li><li>標記</li></ul> |  |
@@ -96,8 +96,7 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
   >[!IMPORTANT]
   >
   >啟用資料檢視時，請考量下列事項：
-  >* 每個IMS組織最多可以啟用50個資料檢視。 如果您在指定組織的所有產品設定檔中啟用超過50個資料檢視，Data Insights Agent將使用50個最常用的資料檢視。
-  >  您可以在資料檢視[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
+  >* 每個IMS組織最多可以啟用50個資料檢視。 如果您在指定組織的所有產品設定檔中啟用超過50個資料檢視，Data Insights Agent將使用50個最常用的資料檢視。  >  您可以在資料檢視[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/manage-dataviews#manage-data-views)中使用Data Insights Agent欄上的資訊來檢視在您的IMS組織中為Data Insights Agent啟用的資料檢視數量。
   >* Data Insights Agent可在您啟用資料檢視的同一天，參照包含的資料檢視。
 
   若要啟用Data Insights Agent的資料檢視：
@@ -191,7 +190,7 @@ AI助理中的![Data Insights Agent](/help/agents/images/cja-agent/cja-ai-asst-d
 
 ## 跨Experience Cloud應用程式存取Data Insights Agent
 
-Adobe Experience Platform Agent Orchestrator可讓您在多個Adobe Experience Cloud應用程式（例如Adobe Journey Optimizer和Real-Time CDP）中存取Data Insights Agent的功能。
+Adobe Experience Platform Agent Orchestrator可讓您在多個Adobe Experience Cloud應用程式中存取Data Insights Agent的功能，例如Adobe Journey Optimizer和Real-Time CDP。
 
 Agent Orchestrator會解譯您的請求、決定需要哪些專業代理程式，並協調他們提供正確的回應。 它可追蹤多圈互動中的內容，因此您可以自然地在先前的查詢上建置。
 
@@ -285,8 +284,5 @@ Following the thumbs up or thumbs down selection, please make a selection for th
 
 >[!MORELIKETHIS]
 >
->[元件設定](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/component-settings/overview)
->[資料字典](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview)
->[核准計算量度](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-calcmetrics/cm-workflow/cm-approving)
->[共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
+>[元件設定資料字典核准計算量度共用區段](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-share)
 
