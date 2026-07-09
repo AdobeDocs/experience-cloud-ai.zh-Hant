@@ -5,10 +5,10 @@ user-guide-description: 了解如何使用 AI 助理來加快 Adobe Experience P
 description: 了解關於 Experience Cloud 中的 AI 助理。 使用 Experience Cloud 中的 AI 來增加您的產品知識及獲得運作洞察。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f82d4d72fb14600aa5cb5113e47cbb08c1989076
+source-git-commit: 9099afedd6f090a2cab2f865ab06a2be5448b06f
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 49%
+source-wordcount: '171'
+ht-degree: 36%
 
 ---
 
@@ -36,7 +36,18 @@ ht-degree: 49%
    - 資料工程 {#data-engineering}
       - {hide-from-toc}[Data Engineering Agent](./agents/data-engineering/overview.md)
 - MCP {#mcp}
-   - [REAL-TIME CDP MCP](./mcp/rtcdp-mcp.md)
+   - [Adobe CX Enterprise MCP](./mcp/overview.md)
+   - 開始使用 {#mcp-get-started}
+      - [存取CX Enterprise MCP工具](./mcp/access.md)
+      - [安裝CX Enterprise MCP](./mcp/install.md)
+      - [CX Enterprise MCP中的工作階段內容工具](./mcp/context-tools.md)
+   - 產品工具 {#mcp-product-tools}
+      - [Real-Time CDP工具](./mcp/rtcdp-mcp.md)
+      - [Experience Platform工具](./mcp/aep-mcp.md)
+      - [Journey Optimizer工具](./mcp/ajo-mcp.md)
+      - [Customer Journey Analytics工具](./mcp/cja-mcp.md)
+      - [Adobe Analytics工具](./mcp/analytics-mcp.md)
+      - [Workfront](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)
 - 同事 {#coworker}
    - {hide-from-toc}[在遊樂場的同事聊天](./coworker/playground-coworker-chat.md)
    - {hide-from-toc}[驗證AA到CJA的移轉資料](./coworker/data-validation-aa-cja.md)
