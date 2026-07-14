@@ -1,17 +1,10 @@
 ---
 title: 產品支援代理
 description: 了解如何使用 AI 助理中的產品支援代理人，簡化疑難排解和客戶支援服務單歸檔流程。
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b2afc6a3f389790d7af2d4ba29a4362b28432a28
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: fddbc156de78cc72bcc1ed4906be6e089191f5b0
 workflow-type: tm+mt
 source-wordcount: 365
 ht-degree: 100%
@@ -21,7 +14,7 @@ ht-degree: 100%
 # 產品支援代理
 
 <!--
-TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ---MdK7JzOKF4EzJra3mZjNhpwZ-o
+TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ%2D%2D%2DMdK7JzOKF4EzJra3mZjNhpwZ-o
 -->
 
 產品支援代理程式是AI Assistant的自助式偵錯和疑難排解功能，可用於Adobe Experience Platform功能和應用程式。
@@ -71,5 +64,5 @@ TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ---MdK7JzOKF4EzJra3mZjNhp
 
 如需詳細資訊，請觀看以下影片，瞭解如何使用產品支援代理程式進行順暢的疑難排解，而不需要離開您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443194?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443183?learn=on)
 
