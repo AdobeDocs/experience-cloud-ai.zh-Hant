@@ -26,7 +26,7 @@ Adobe CX Enterprise透過單一MCP公開產品工具。 存取權由產品工具
 | Journey Optimizer | Beta 版 | 有效的Journey Optimizer授權、Adobe組織的Beta啟用，以及檢視行銷活動和管道設定的許可權。 |
 | Customer Journey Analytics | 可用 | 有效的Customer Journey Analytics授權和產品設定檔，其中包含Adobe Admin Console中的&#x200B;**MCP存取**&#x200B;許可權專案。 產品許可權仍會控管您可存取或修改的資料檢視、元件、報告、專案和對象。 |
 | Adobe Analytics | 可用 | 有效的Adobe Analytics授權和產品設定檔，其中包含Adobe Admin Console中的&#x200B;**MCP存取**&#x200B;許可權專案。 產品許可權仍會控管您可存取或修改的報表套裝、元件、報表、區段、日期範圍和專案。 |
-| Workfront | 預覽 | 作用中Workfront授權和Workfront MCP啟用。 請參閱[Workfront MCP檔案](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)。 |
+| Workfront | 預覽 | 作用中Workfront授權和Workfront MCP啟用。 請參閱[Workfront MCP檔案](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview)。 |
 
 
 >[!NOTE]
