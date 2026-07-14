@@ -84,11 +84,11 @@ Customer Journey Analytics工具支援從MCP使用者端控管的分析工作流
 
 **概觀**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486325/?captions=chi_hant&learn=on&enablevpops)
 
 **正在執行動作**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486336/?captions=chi_hant&learn=on&enablevpops)
 
 ## 詳細資訊 {#mcp-more}
 
