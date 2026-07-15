@@ -1,20 +1,20 @@
 ---
-title: CX Enterprise MCP中的Adobe Journey Optimizer工具
-description: 透過CX Enterprise MCP瞭解哪些Adobe Journey Optimizer工具可用。
-source-git-commit: 6c73b4d2e452a82597565d71279df2dba605a977
+title: CX Co-worker Gateway中的Adobe Journey Optimizer工具
+description: 透過CX Co-worker Gateway瞭解哪些Adobe Journey Optimizer工具可供使用。
+source-git-commit: adb72f43865bee5b2b151a5a75994c5f3939c2d9
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 3%
 
 ---
 
-# CX Enterprise MCP中的Adobe Journey Optimizer工具 {#ajo-mcp}
+# CX Co-worker Gateway中的Adobe Journey Optimizer工具 {#ajo-mcp}
 
-使用Adobe Journey Optimizer產品工具，從相容於MCP的使用者端檢查行銷活動和管道設定。 當您的組織已啟用，且您的使用者帳戶擁有必要的Journey Optimizer許可權時，便可以透過[CX Enterprise MCP](overview.md)使用這些工具。
+使用Adobe Journey Optimizer產品工具，從相容於MCP的使用者端檢查行銷活動和管道設定。 當您的組織已啟用，且您的使用者帳戶擁有必要的Journey Optimizer許可權時，這些工具可透過[CX Co-worker Gateway](overview.md)取得。
 
 >[!AVAILABILITY]
 >
->Journey Optimizer產品工具位於Beta中。 存取許可權僅限透過邀請，且需要Adobe組織啟用。 請參閱[存取CX Enterprise MCP工具](access.md)。
+>Journey Optimizer產品工具位於Beta中。 存取許可權僅限透過邀請，且需要Adobe組織啟用。 請參閱[存取CX Co-worker Gateway工具](access.md)。
 
 ## 主要功能 {#mcp-capabilities}
 

@@ -1,20 +1,20 @@
 ---
 title: Real-Time CDP MCP (Beta)
 description: 瞭解如何使用MCP伺服器將Adobe Real-Time CDP連線至MCP使用者端。
-source-git-commit: 3e8651b12f4769a819ebb49ddca9d6a158f98e6d
+source-git-commit: adb72f43865bee5b2b151a5a75994c5f3939c2d9
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 3%
 
 ---
 
-# CX Enterprise MCP中的Real-Time CDP工具 {#rtcdp-mcp}
+# CX Co-worker Gateway中的Real-Time CDP工具 {#rtcdp-mcp}
 
-您可以使用Real-Time CDP MCP產品工具，從相容於MCP的使用者端檢查對象、目的地、來源、身分名稱空間及啟用健康狀態。 當您的組織已啟用，且您的使用者帳戶擁有必要的Real-Time CDP許可權時，便可以透過統一的[CX Enterprise MCP閘道](overview.md)取得這些工具。
+您可以使用Real-Time CDP MCP產品工具，從相容於MCP的使用者端檢查對象、目的地、來源、身分名稱空間及啟用健康狀態。 當您的組織已啟用，且您的使用者帳戶擁有必要的Real-Time CDP許可權時，便可以透過統一的[CX Co-worker Gateway閘道](overview.md)取得這些工具。
 
 >[!AVAILABILITY]
 >
->Real-Time CDP產品工具位於Beta。 存取許可權僅限透過邀請，且需要Adobe組織啟用。 請參閱[存取CX Enterprise MCP工具](access.md)。
+>Real-Time CDP產品工具位於Beta。 存取許可權僅限透過邀請，且需要Adobe組織啟用。 請參閱[存取CX Co-worker Gateway工具](access.md)。
 
 ## 主要功能 {#mcp-capabilities}
 
@@ -35,9 +35,9 @@ Real-Time CDP工具提供唯讀監視和分類介面。 您可以：
 | 區域圖 | 工具 | 說明 |
 | --- | --- | --- |
 | 客群 | `search_audiences` | 依名稱、實體型別、生命週期狀態、身分名稱空間或來源列出及查詢對象。 |
-| 對象 | `preview_audience_membership` | 先預估PQL或SDD區段運算式的大小，再儲存為對象。 |
-| 對象 | `inspect_audience_evaluation_jobs` | 擷取區段評估工作記錄以診斷對象重新整理問題或確認最近的評估歷史記錄。 |
-| 對象 | `inspect_audience_export_jobs` | 擷取對象匯出工作記錄，以確認匯出已完成或顯示失敗詳細資料。 |
+| 客群 | `preview_audience_membership` | 先預估PQL或SDD區段運算式的大小，再儲存為對象。 |
+| 客群 | `inspect_audience_evaluation_jobs` | 擷取區段評估工作記錄以診斷對象重新整理問題或確認最近的評估歷史記錄。 |
+| 客群 | `inspect_audience_export_jobs` | 擷取對象匯出工作記錄，以確認匯出已完成或顯示失敗詳細資料。 |
 | 目的地 | `search_destination_connectors` | 列出平台中可用的目的地聯結器型別。 |
 | 目的地 | `search_destination_accounts` | 列出已驗證的目的地帳戶。 |
 | 目的地 | `search_destination_input_connections` | 擷取目的地流程的Experience Platform端輸入。 |

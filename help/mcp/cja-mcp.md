@@ -1,7 +1,7 @@
 ---
-title: Adobe CX Enterprise MCP中的Customer Journey Analytics工具
-description: 透過Adobe CX Enterprise MCP瞭解哪些Adobe Customer Journey Analytics工具可供使用。
-source-git-commit: 6c73b4d2e452a82597565d71279df2dba605a977
+title: Adobe CX Co-worker Gateway中的Customer Journey Analytics工具
+description: 透過Adobe CX Co-worker Gateway瞭解哪些Adobe Customer Journey Analytics工具可供使用。
+source-git-commit: adb72f43865bee5b2b151a5a75994c5f3939c2d9
 workflow-type: tm+mt
 source-wordcount: '674'
 ht-degree: 3%
@@ -9,13 +9,13 @@ ht-degree: 3%
 ---
 
 
-# Adobe CX Enterprise MCP中的Customer Journey Analytics工具 {#cja-mcp}
+# Adobe CX Co-worker Gateway中的Customer Journey Analytics工具 {#cja-mcp}
 
-使用Customer Journey Analytics產品工具，從相容於MCP的使用者端探索資料檢視、探索維度和量度、執行報表，以及管理選取的分析元件。 當您的帳戶擁有必要的Customer Journey Analytics授權和許可權時，即可透過[CX Enterprise MCP](overview.md)取得這些工具。
+使用Customer Journey Analytics產品工具，從相容於MCP的使用者端探索資料檢視、探索維度和量度、執行報表，以及管理選取的分析元件。 當您的帳戶具有必要的Customer Journey Analytics授權和許可權時，這些工具可透過[CX Co-worker Gateway](overview.md)取得。
 
 >[!AVAILABILITY]
 >
->擁有Customer Journey Analytics授權的客戶可使用Customer Journey Analytics工具。 存取權是由Adobe Admin Console中的&#x200B;**MCP存取**&#x200B;許可權所控制。 請參閱[存取CX Enterprise MCP工具](access.md)。
+>擁有Customer Journey Analytics授權的客戶可使用Customer Journey Analytics工具。 存取權是由Adobe Admin Console中的&#x200B;**MCP存取**&#x200B;許可權所控制。 請參閱[存取CX Co-worker Gateway工具](access.md)。
 
 ## 主要功能 {#mcp-capabilities}
 

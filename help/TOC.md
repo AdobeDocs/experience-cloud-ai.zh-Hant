@@ -5,7 +5,7 @@ user-guide-description: 了解如何使用 AI 助理來加快 Adobe Experience P
 description: 了解關於 Experience Cloud 中的 AI 助理。 使用 Experience Cloud 中的 AI 來增加您的產品知識及獲得運作洞察。
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: e5bf7d7ac41af7e373cc9eaef2bd11b2f91f4cd2
+source-git-commit: adb72f43865bee5b2b151a5a75994c5f3939c2d9
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 35%
@@ -36,12 +36,12 @@ ht-degree: 35%
    - 資料工程 {#data-engineering}
       - {hide-from-toc}[Data Engineering Agent](./agents/data-engineering/overview.md)
 - MCP {#mcp}
-   - [Adobe CX Enterprise MCP](./mcp/overview.md)
+   - [Adobe CX Co-worker閘道](./mcp/overview.md)
    - {hide-from-toc}[Real-Time CDP MCP測試版](./mcp/beta/rtcdp-mcp.md)
    - 開始使用 {#mcp-get-started}
-      - [存取CX Enterprise MCP工具](./mcp/access.md)
-      - [安裝CX Enterprise MCP](./mcp/install.md)
-      - [CX Enterprise MCP中的工作階段內容工具](./mcp/context-tools.md)
+      - [存取CX Co-worker Gateway工具](./mcp/access.md)
+      - [安裝CX Co-worker Gateway](./mcp/install.md)
+      - [CX Co-worker Gateway中的工作階段內容工具](./mcp/context-tools.md)
    - 產品工具 {#mcp-product-tools}
       - [Real-Time CDP工具](./mcp/rtcdp-mcp.md)
       - [Experience Platform工具](./mcp/aep-mcp.md)

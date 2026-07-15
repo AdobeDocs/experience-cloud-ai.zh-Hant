@@ -11,7 +11,7 @@ role_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b2afc6a3f389790d7af2d4ba29a4362b28432a28
+source-git-commit: fddbc156de78cc72bcc1ed4906be6e089191f5b0
 workflow-type: tm+mt
 source-wordcount: 365
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 # 產品支援代理
 
 <!--
-TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ---MdK7JzOKF4EzJra3mZjNhpwZ-o
+TQID: https://experienceleague.adobe.com/SKcxvhwgLhbCjQ%2D%2D%2DMdK7JzOKF4EzJra3mZjNhpwZ-o
 -->
 
 產品支援代理程式是AI Assistant的自助式偵錯和疑難排解功能，可用於Adobe Experience Platform功能和應用程式。
