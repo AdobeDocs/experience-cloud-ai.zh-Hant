@@ -42,7 +42,7 @@ ht-degree: 4%
 - 同事聊天：在同事聊天中輸入的輸入。 在有限的開頭期間，輸入會以每個輸入25個AI點數的比率沖銷AI點數。 此比率僅在有限時間內可用，且隨時可能變更。
 - Experience Platform代理程式：使用[AI信用消耗表格](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/ai-credit-consumption)中列出的Experience Platform代理程式所執行的任何工作組合（視您對CX Enterprise應用程式的現有授權而定）。
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。
 
 Agentic AI監控儀表板可讓您清楚瞭解組織內採用和使用Agentic AI的方式。 授權的使用者可以輕鬆追蹤參與、收集意見回饋、監控AI信用使用情況以及審查關鍵量度。 利用這些見解發掘最佳化機會，並支援您的治理和採用工作。 若要瞭解更多資訊，請瀏覽[Agentic AI使用監視指南](https://experienceleague.adobe.com/zh-hant/docs/core-services/interface/features/monitoring)。
 
@@ -110,7 +110,7 @@ Agentic使用規範試用版可讓合格客戶使用同事聊天（或選取Expe
 
 ### 誰能看到使用情形以及如何檢視？
 
-您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/en/docs/experience-platform/dashboards/guides/license-usage)。 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
+您可以使用Adobe Experience Platform UI中的授權使用儀表板來追蹤您的AI積分。 如需詳細資訊，請閱讀[授權使用儀表板檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/dashboards/guides/license-usage)。 使用儀表板可檢視您的AI信用使用量和報告。 只有具有適當許可權的管理員和使用者才能檢視您的使用資訊。
 
 客戶可以掌控誰能看見使用情況和報表。 只有具有適當許可權的管理員和使用者才能看到此資訊。
 
